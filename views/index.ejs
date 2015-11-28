@@ -1,11 +1,448 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <title><%= title %></title>
-    <link rel='stylesheet' href='/stylesheets/style.css' />
-  </head>
-  <body>
-    <h1><%= title %></h1>
-    <p>Welcome to <%= title %></p>
-  </body>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Home</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="/stylesheets/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="/stylesheets/css/clean-blog.min.css" rel="stylesheet">
+	<link href="/stylesheets/css/bootstrap-datetimepicker.min.css" rel="stylesheet" media="screen">
+    <!-- Custom Fonts -->
+    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href='http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-custom navbar-fixed-top">
+        <div class="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="/">Expedia++</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a href="/">Reservations</a>
+                    </li>
+					<li>
+                        <a href="/inscription">S'inscrire</a>
+                    </li>
+					<li>
+                        <a href="/connection">Connexion</a>
+                    </li>
+                    <li>
+                        <a href="/help">Help</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <!-- Page Header -->
+    <!-- Set your background image for this header on the line below. -->
+    <header class="intro-header" style="background-image: url('/images/eau.jpg')">
+        <div class="container">
+			<div class="row">
+				<div class="col-lg-12">
+					<div class="site-heading">
+                        <h3>Réservations</h3>
+                        <hr class="small">
+						<span class="subheading">Faites vos réservations</span>
+                    </div>
+				</div>
+				<div class="col-lg-12" style="background-color: white">
+					<ul id="myTab" class="nav nav-tabs nav-justified">
+						<li class="active"><a href="#Vols" data-toggle="tab"><i class="fa fa-plane"></i>&nbsp;&nbsp;Vols</a>
+						</li>
+						<li class=""><a href="#Hotels" data-toggle="tab"><i class="fa fa-bed"></i>&nbsp;&nbsp;Hotels</a>
+						</li>
+						<li class=""><a href="#Voitures" data-toggle="tab"><i class="fa fa-car"></i>&nbsp;&nbsp;Voitures</a>
+						</li>
+						<li class=""><a href="#Packages" data-toggle="tab"><i class="fa fa-database"></i>&nbsp;&nbsp;Packages</a>
+						</li>
+					</ul>
+
+					<div id="myTabContent" class="tab-content">
+						<div class="tab-pane fade active in" id="Vols">
+							<h4>Vols</h4>
+							<form role="form" method="get" action="#">
+								<div class="row form-group">
+									<div class="col-lg-6">
+										<label for="vols_depart">lieu de départ</label>
+										<input type="text" class="form-control" id="vols_depart" placeholder="Départ" />									
+									</div>
+									<div class="col-lg-6">
+										<label for="vols_destination">lieu de destination</label>
+										<input type="text" class="form-control" id="vols_destination" placeholder="Destination" />								
+									</div>
+								</div>
+								
+								<div class="row form-group">
+									<div class="col-lg-4">
+										<label for="vols_nbPersonne">Nombre de personnes</label>
+										<select id="vols_nbPersonne" class="form-control">
+											<option>1</option>
+											<option>2</option>
+											<option>3</option>
+											<option>4</option>
+											<option>5</option>
+											<option>6</option>
+											<option>7</option>
+											<option>8</option>
+											<option>9</option>
+											<option>10</option>
+										</select>
+									</div>
+									<div class="col-lg-4">
+										<label for="vols_nbEnfants">Moins de 17 ans</label>
+										<select id="vols_nbEnfants" class="form-control">
+											<option>1</option>
+											<option>2</option>
+											<option>3</option>
+											<option>4</option>
+											<option>5</option>
+											<option>6</option>
+											<option>7</option>
+											<option>8</option>
+											<option>9</option>
+											<option>10</option>
+										</select>
+									</div>									
+									<div class="col-lg-4">
+										<label for="vols_typeBillet">Type de billet</label>
+										<select id="vols_typeBillet" class="form-control">
+											<option>Aller Simple</option>
+											<option>Aller et Retour</option>
+										</select>								
+									</div>
+									
+								</div>
+								<div class="row form-group">
+									<div class="col-lg-6">
+										<label for="dtp_input1" class="col-lg-4 control-label">Date de départ</label>
+										<div class="input-group date form_date col-lg-8" data-date="" data-date-format="dd MM yyyy" data-link-field="dtp_input1" data-link-format="yyyy-mm-dd">
+											<input class="form-control" size="16" type="text" value="" readonly>
+											<span class="input-group-addon"><span class="glyphicon glyphicon-remove"></span></span>
+											<span class="input-group-addon"><span class="glyphicon glyphicon-calendar"></span></span>
+										</div>
+										<input type="hidden" id="dtp_input1" value="" />
+									</div>
+									<div class="col-lg-6">
+										<label for="dtp_input2" class="col-lg-4 control-label">Date d'arrivée</label>
+										<div class="input-group date form_date col-lg-8" data-date="" data-date-format="dd MM yyyy" data-link-field="dtp_input2" data-link-format="yyyy-mm-dd">
+											<input class="form-control" size="16" type="text" value="" readonly>
+											<span class="input-group-addon"><span class="glyphicon glyphicon-remove"></span></span>
+											<span class="input-group-addon"><span class="glyphicon glyphicon-calendar"></span></span>
+										</div>
+										<input type="hidden" id="dtp_input2" value="" />
+									</div>
+								</div>
+								<button type="submit" class="btn btn-primary">Rechercher</button>
+							</form>
+						</div>
+						<div class="tab-pane fade" id="Hotels">
+							<h4>Hotels</h4>
+							<form role="form" method="get" action="#">
+								<div class="row form-group">
+									<div class="col-lg-6">
+										<label for="hotels_depart">Destination</label>
+										<input type="text" class="form-control" id="hotels_depart" placeholder="Destination" />									
+									</div>
+								</div>
+								
+								<div class="row form-group">
+									<div class="col-lg-4">
+										<label for="hotels_nb_chambres">Chambres</label>
+										<select id="hotels_nb_chambres" class="form-control">
+											<option>1</option>
+											<option>2</option>
+											<option>3</option>
+											<option>4</option>
+											<option>5</option>
+											<option>6</option>
+											<option>7</option>
+											<option>8</option>
+											<option>9</option>
+											<option>10</option>
+										</select>								
+									</div>	
+									<div class="col-lg-4">
+										<label for="hotels_nbPersonne">Nombre de personnes</label>
+										<select id="hotels_nbPersonne" class="form-control">
+											<option>1</option>
+											<option>2</option>
+											<option>3</option>
+											<option>4</option>
+											<option>5</option>
+											<option>6</option>
+											<option>7</option>
+											<option>8</option>
+											<option>9</option>
+											<option>10</option>
+										</select>
+									</div>
+									<div class="col-lg-4">
+										<label for="hotels_nbEnfants">Moins de 17 ans</label>
+										<select id="hotels_nbEnfants" class="form-control">
+											<option>1</option>
+											<option>2</option>
+											<option>3</option>
+											<option>4</option>
+											<option>5</option>
+											<option>6</option>
+											<option>7</option>
+											<option>8</option>
+											<option>9</option>
+											<option>10</option>
+										</select>
+									</div>																	
+								</div>
+								<div class="row form-group">
+									<div class="col-lg-6">
+										<label for="dtp_input3" class="col-lg-4 control-label">Date de départ</label>
+										<div class="input-group date form_datetime col-lg-8" data-date="1979-09-16T05:25:07Z" data-date-format="dd MM yyyy - HH:ii p" data-link-field="dtp_input3">
+											<input class="form-control" size="16" type="text" value="" readonly>
+											<span class="input-group-addon"><span class="glyphicon glyphicon-remove"></span></span>
+											<span class="input-group-addon"><span class="glyphicon glyphicon-calendar"></span></span>
+										</div>
+										<input type="hidden" id="dtp_input3" value="" />
+									</div>
+									<div class="col-lg-6">
+										<label for="dtp_input4" class="col-lg-4 control-label">Date d'arrivée</label>
+										<div class="input-group date form_datetime col-lg-8"  data-date="1979-09-16T05:25:07Z" data-date-format="dd MM yyyy - HH:ii p" data-link-field="dtp_input4">
+											<input class="form-control" size="16" type="text" value="" readonly>
+											<span class="input-group-addon"><span class="glyphicon glyphicon-remove"></span></span>
+											<span class="input-group-addon"><span class="glyphicon glyphicon-calendar"></span></span>
+										</div>
+										<input type="hidden" id="dtp_input4" value="" />
+									</div>
+								</div>
+								<button type="submit" class="btn btn-primary">Rechercher</button>
+							</form>
+							</div>
+						<div class="tab-pane fade" id="Voitures">
+							<h4>Voitures</h4>
+							<form role="form" method="get" action="#">
+								<div class="row form-group">
+									<div class="col-lg-6">
+										<label for="voitures_depart">lieu de prise</label>
+										<input type="text" class="form-control" id="voitures_depart" placeholder="Départ" />									
+									</div>
+									<div class="col-lg-6">
+										<label for="voitures_destination">lieu de remise</label>
+										<input type="text" class="form-control" id="voitures_destination" placeholder="Destination" />								
+									</div>
+								</div>
+								<div class="row form-group">
+									<div class="col-lg-6">
+										<label for="dtp_input5" class="col-lg-4 control-label">Date de départ</label>
+										<div class="input-group date form_datetime col-lg-8"  data-date="1979-09-16T05:25:07Z" data-date-format="dd MM yyyy - HH:ii p" data-link-field="dtp_input5">
+											<input class="form-control" size="16" type="text" value="" readonly>
+											<span class="input-group-addon"><span class="glyphicon glyphicon-remove"></span></span>
+											<span class="input-group-addon"><span class="glyphicon glyphicon-calendar"></span></span>
+										</div>
+										<input type="hidden" id="dtp_input5" value="" />
+									</div>
+									<div class="col-lg-6">
+										<label for="dtp_input6" class="col-lg-4 control-label">Date d'arrivée</label>
+										<div class="input-group date form_datetime col-lg-8" data-date="1979-09-16T05:25:07Z" data-date-format="dd MM yyyy - HH:ii p" data-link-field="dtp_input6">
+											<input class="form-control" size="16" type="text" value="" readonly>
+											<span class="input-group-addon"><span class="glyphicon glyphicon-remove"></span></span>
+											<span class="input-group-addon"><span class="glyphicon glyphicon-calendar"></span></span>
+										</div>
+										<input type="hidden" id="dtp_input6" value="" />
+									</div>
+								</div>
+								<button type="submit" class="btn btn-primary">Rechercher</button>
+							</form>
+							</div>
+						<div class="tab-pane fade" id="Packages">
+							<h4>Packages</h4>
+							<form role="form" method="get" action="#">
+								<div class="row form-group">
+									<div class="col-lg-6">
+										<label for="packages_depart">lieu de départ</label>
+										<input type="text" class="form-control" id="packages_depart" placeholder="Départ" />									
+									</div>
+									<div class="col-lg-6">
+										<label for="packages_destination">lieu de destination</label>
+										<input type="text" class="form-control" id="packages_destination" placeholder="Destination" />								
+									</div>
+								</div>
+								
+								<div class="row form-group">
+									<div class="col-lg-4">
+										<label for="packages_nbPersonne">Nombre de personnes</label>
+										<select id="packages_nbPersonne" class="form-control">
+											<option>1</option>
+											<option>2</option>
+											<option>3</option>
+											<option>4</option>
+											<option>5</option>
+											<option>6</option>
+											<option>7</option>
+											<option>8</option>
+											<option>9</option>
+											<option>10</option>
+										</select>
+									</div>
+									<div class="col-lg-4">
+										<label for="packages_nbEnfants">Moins de 17 ans</label>
+										<select id="packages_nbEnfants" class="form-control">
+											<option>1</option>
+											<option>2</option>
+											<option>3</option>
+											<option>4</option>
+											<option>5</option>
+											<option>6</option>
+											<option>7</option>
+											<option>8</option>
+											<option>9</option>
+											<option>10</option>
+										</select>
+									</div>									
+									<div class="col-lg-4">
+										<label for="packages_typeBillet">Type de billet</label>
+										<select id="packages_typeBillet" class="form-control">
+											<option>Aller Simple</option>
+											<option>Aller et Retour</option>
+										</select>								
+									</div>
+									
+								</div>
+								<div class="row form-group">
+									<div class="col-lg-6">
+										<label for="dtp_input7" class="col-lg-4 control-label">Date de départ</label>
+										<div class="input-group date form_date col-lg-8" data-date="" data-date-format="dd MM yyyy" data-link-field="dtp_input7" data-link-format="yyyy-mm-dd">
+											<input class="form-control" size="16" type="text" value="" readonly>
+											<span class="input-group-addon"><span class="glyphicon glyphicon-remove"></span></span>
+											<span class="input-group-addon"><span class="glyphicon glyphicon-calendar"></span></span>
+										</div>
+										<input type="hidden" id="dtp_input7" value="" />
+									</div>
+									<div class="col-lg-6">
+										<label for="dtp_input8" class="col-lg-4 control-label">Date d'arrivée</label>
+										<div class="input-group date form_date col-lg-8" data-date="" data-date-format="dd MM yyyy" data-link-field="dtp_input8" data-link-format="yyyy-mm-dd">
+											<input class="form-control" size="16" type="text" value="" readonly>
+											<span class="input-group-addon"><span class="glyphicon glyphicon-remove"></span></span>
+											<span class="input-group-addon"><span class="glyphicon glyphicon-calendar"></span></span>
+										</div>
+										<input type="hidden" id="dtp_input8" value="" />
+									</div>
+								</div>
+								<button type="submit" class="btn btn-primary">Rechercher</button>
+							</form>
+							</div>
+					</div>
+				</div>
+			</div>
+        </div>
+    </header>
+
+    <hr>
+	<!-- Tabs -->
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                    <ul class="list-inline text-center">
+                        <li>
+                            <a style="pointer-events: none; cursor: default;" href="#">
+                                <span class="fa-stack fa-lg">
+                                    <i class="fa fa-circle fa-stack-2x"></i>
+                                    <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                                </span>
+                            </a>
+                        </li>
+                        <li>
+                            <a style="pointer-events: none; cursor: default;" href="#">
+                                <span class="fa-stack fa-lg">
+                                    <i class="fa fa-circle fa-stack-2x"></i>
+                                    <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                                </span>
+                            </a>
+                        </li>
+                    </ul>
+                    <p class="copyright text-muted">Expedia ++</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- jQuery -->
+    <script src="/javascripts/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="/javascripts/bootstrap.min.js"></script>
+    <script src="/javascripts/clean-blog.min.js"></script>
+	<script type="text/javascript" src="/javascripts/bootstrap-datetimepicker.js" charset="UTF-8"></script>
+	<script type="text/javascript" src="/javascripts/bootstrap-datetimepicker.fr.js" charset="UTF-8"></script>
+	<script type="text/javascript">
+		$('.form_datetime').datetimepicker({
+			//language:  'fr',
+			weekStart: 1,
+			todayBtn:  1,
+			autoclose: 1,
+			todayHighlight: 1,
+			startView: 2,
+			forceParse: 0,
+			showMeridian: 1
+		});
+		$('.form_date').datetimepicker({
+			language:  'fr',
+			weekStart: 1,
+			todayBtn:  1,
+			autoclose: 1,
+			todayHighlight: 1,
+			startView: 2,
+			minView: 2,
+			forceParse: 0
+		});
+		$('.form_time').datetimepicker({
+			language:  'fr',
+			weekStart: 1,
+			todayBtn:  1,
+			autoclose: 1,
+			todayHighlight: 1,
+			startView: 1,
+			minView: 0,
+			maxView: 1,
+			forceParse: 0
+		});
+	</script>
+</body>
+
 </html>
