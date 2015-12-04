@@ -83,20 +83,25 @@
             </div>
             <div class="row form-group" id="zone_saisie_inscription" style="background-color: white; padding-bottom: 10px;">
 				<div class="container">
-					<form role="form" method="get" action="#">
+					<form role="form" method="post" action="/connection">
 						<div class="row">
 							<div class="col-lg-6">
 								<label for="connexion_email">Email</label>
-								<input type="text" class="form-control" id="connexion_email" placeholder="exemple@gmail.com" />									
+								<input type="text" class="form-control" name="email" id="connexion_email" placeholder="exemple@gmail.com" />									
 							</div>
 							<div class="col-lg-6">
 								<label for="connexion_password">Mot de passe</label>
-								<input type="text" class="form-control" id="connexion_password" placeholder="" />									
+								<input type="text" class="form-control" name="password" id="connexion_password" placeholder="" />									
 							</div>
 						</div><br/>
 						<button type="submit" class="btn btn-primary">Valider</button>
+						<label style="color:red">
+								<% if(message_error) {%>
+								   <%= message_error %>
+								<% } %>
+						</label>						
 					</form>	
-					<a href="#">inscrivez-vous&nbsp;</a>
+					<a href="/inscription">inscrivez-vous&nbsp;</a>
 					<a href="#">/&nbsp;Mot de passe oublié ?</a>
 				</div>
             </div>
@@ -137,9 +142,6 @@
 
     <!-- Bootstrap Core JavaScript -->
     <script src="/javascripts/bootstrap.min.js"></script>
-
-    <!-- Custom Theme JavaScript -->
-    <script src="/javascripts/clean-blog.min.js"></script>
 
 </body>
 

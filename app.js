@@ -4,6 +4,8 @@ var favicon = require('serve-favicon');
 var logger = require('morgan');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
+var session = require('cookie-session'); 
+var dataCreation = require('./utilitaires/dataCreation');
 
 var index = require('./routes/index');
 var users = require('./routes/users');
@@ -25,6 +27,8 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
+/* On utilise les sessions */
+app.use(session({secret: 'expediaplusplussecret'}))
 
 app.use('/', index);
 app.use('/users', users);
@@ -32,6 +36,9 @@ app.use('/help', help);
 app.use('/connection', connection);
 app.use('/results', search_results);
 app.use('/inscription', inscription);
+
+app.use('/mongotest', require('./routes/mongotest'));
+app.use('/mongoosetest', require('./routes/mongoosetest'));
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {

@@ -91,18 +91,18 @@
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <p>Nous vous repondrons dans un delai de 24h</p>
 
-                <form name="sentMessage" id="contactForm" novalidate>
+                <form name="sentMessage" method="post" action ="/help" id="contactForm" novalidate>
                     <div class="row control-group">
                         <div class="form-group col-xs-12 floating-label-form-group controls">
                             <label>Email Address</label>
-                            <input type="email" class="form-control" placeholder="Email Address" id="email" required data-validation-required-message="Please enter your email address.">
+                            <input type="email" class="form-control" name="email" placeholder="Email Address" id="email" required data-validation-required-message="Please enter your email address.">
                             <p class="help-block text-danger"></p>
                         </div>
                     </div>
                     <div class="row control-group">
                         <div class="form-group col-xs-12 floating-label-form-group controls">
                             <label>Message</label>
-                            <textarea rows="5" class="form-control" placeholder="Message" id="message" required data-validation-required-message="Please enter a message."></textarea>
+                            <textarea rows="5" class="form-control" placeholder="Message" name="message" id="message" required data-validation-required-message="Please enter a message."></textarea>
                             <p class="help-block text-danger"></p>
                         </div>
                     </div>
@@ -156,7 +156,7 @@
     <script src="/javascripts/bootstrap.min.js"></script>
 
     <!-- Custom Theme JavaScript -->
-    <script src="/javascripts/clean-blog.min.js"></script>
+    <script src="/javascripts/clean-blog.js"></script>
 
 </body>
 

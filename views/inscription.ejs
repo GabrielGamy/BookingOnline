@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-
+	
     <title><%= title%></title>
 
     <!-- Bootstrap Core CSS -->
@@ -82,39 +82,44 @@
             </div>
             <div class="row form-group" id="zone_saisie_inscription" style="background-color: white; padding-bottom: 10px;">
 				<div class="container">
-					<form role="form" method="get" action="#">
+					<form role="form" method="post" action="/inscription">
 						<div class="row">
 							<div class="col-lg-6">
-								<label for="inscription_lastName">Nom</label>
-								<input type="text" class="form-control" id="inscription_lastName" placeholder="Nom" />									
+								<label for="first_name">Nom</label>
+								<input type="text" class="form-control" name= "first_name" id="first_name" placeholder="Nom" />									
 							</div>
 							<div class="col-lg-6">
-								<label for="inscription_firstName">Prenom(s)</label>
-								<input type="text" class="form-control" id="inscription_firstName" placeholder="Prenom(s)" />								
+								<label for="last_name">Prenom(s)</label>
+								<input type="text" class="form-control" name="last_name" id="last_name" placeholder="Prenom(s)" />								
 							</div>
 						</div>
 						<div class="row">
 							<div class="col-lg-6">
-								<label for="inscription_email">Email</label>
-								<input type="text" class="form-control" id="inscription_email" placeholder="exemple@gmail.com" />									
+								<label for="email">Email</label>
+								<input type="text" class="form-control" name="email" id="email" placeholder="exemple@gmail.com" />									
 							</div>
 						</div>
 						<div class="row">
 							<div class="col-lg-6">
-								<label for="inscription_password">Mot de passe</label>
-								<input type="text" class="form-control" id="inscription_password" placeholder="Minimum de six caractères,au moins une lettre majuscule et un chiffre" />									
+								<label for="password">Mot de passe</label>
+								<input type="text" class="form-control" name= "password" id="password" placeholder="Minimum de six caractères,au moins une lettre majuscule et un chiffre" />									
 							</div>
 							<div class="col-lg-6">
-								<label for="inscription_validate_password">Valider le mot de passe</label>
-								<input type="text" class="form-control" id="inscription_validate_password" placeholder="Saisir de nouveau le mot de passe" />									
+								<label for="re_password">Valider le mot de passe</label>
+								<input type="text" class="form-control" name="re_password" id="re_password" placeholder="Saisir de nouveau le mot de passe" />									
 							</div>
 						</div>
 						<div class="row">
 							<div class="col-lg-6 checkbox">
-							  <label><input type="checkbox" value="">En tant que fournissseur d'offres</label>
+							  <label><input name="fournisseur" type="checkbox" value="">En tant que fournissseur d'offres</label>
 							</div>
 						</div><br/>
 						<button type="submit" class="btn btn-primary">Valider</button>
+						<label style="color:red">
+								<% if(message_error) {%>
+								   <%= message_error %>
+								<% } %>
+						</label>
 					</form>				
 				</div>
             </div>
@@ -157,9 +162,6 @@
 
     <!-- Bootstrap Core JavaScript -->
     <script src="/javascripts/bootstrap.min.js"></script>
-
-    <!-- Custom Theme JavaScript -->
-    <script src="/javascripts/clean-blog.min.js"></script>
 
 </body>
 

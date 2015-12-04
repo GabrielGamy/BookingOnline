@@ -1,9 +1,51 @@
 var express = require('express');
 var router = express.Router();
+var mongoose = require('mongoose');
+var model = require('../utilitaires/application_model');
+var url = model.ConnectionString;
+var Membre = model.Membre;
 
-/* GET home page. */
-router.get('/', function(req, res, next) {
-  res.render('inscription', { title: 'Inscription' });
+var message_error;
+
+router.get('/', function(req, res, next) { 
+	var message; 	
+	if(message_error) {
+		message = message_error;  
+		message_error = undefined;
+	}
+	res.render('inscription', { title: 'Inscription',message_error: message });
+});
+
+router.post('/', function(req, res, next) {  
+	
+	mongoose.connect(url);
+	
+	Membre.find({email: req.body.email}, function(err, result) {
+		if(result.length > 0){
+			mongoose.disconnect();
+			message_error = "Invalide : Email deja existant";
+			res.redirect('/inscription');  
+		}else{
+			var nouveau_membre = new Membre({
+				nom: req.body.first_name,
+				prenom: req.body.last_name,	
+				email: req.body.email, 
+				motPasse:req.body.password
+			});
+			
+			nouveau_membre.save(function (err) {
+			  mongoose.disconnect(); 	
+			  if (err) {
+				err.status = 500;  
+				res.render('error', {message: 'Le serveur est indisponible pour le moment',error: err});
+			  }else{
+				console.log('save'); 
+				req.session.login = req.body.email;  
+				res.redirect('/users');
+			  }
+			});						
+		}
+	});  
 });
 
 module.exports = router;
