@@ -23,7 +23,9 @@ router.get('/', function(req, res, next) {
 });
 
 router.get('/logout', function(req, res, next) {
-	req.session.login = undefined
+	req.session.login = undefined;
+	req.session.last_name = undefined;
+	req.session.first_name = undefined;
     res.redirect('/');
 });
 
@@ -36,6 +38,8 @@ router.post('/', function(req, res, next) {
 		if(result.length == 1){
 			// successful login
 			req.session.login = req.body.email;
+			req.session.last_name = result[0].prenom;
+			req.session.first_name = result[0].nom; 			
 			res.redirect('/connection'); 
 		}else{
 			message_error = "Email ou mot de passe invalide";

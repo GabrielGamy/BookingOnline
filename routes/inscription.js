@@ -39,8 +39,15 @@ router.post('/', function(req, res, next) {
 				err.status = 500;  
 				res.render('error', {message: 'Le serveur est indisponible pour le moment',error: err});
 			  }else{
-				console.log('save'); 
-				req.session.login = req.body.email;  
+			  	// Un nouvelle usager est dans la BD
+				req.session.login = undefined;
+				req.session.last_name = undefined;
+				req.session.first_name = undefined;
+
+				req.session.login = req.body.email; 
+				req.session.last_name = req.body.last_name;
+				req.session.first_name = req.body.first_name;
+				 
 				res.redirect('/users');
 			  }
 			});						

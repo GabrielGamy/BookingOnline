@@ -6,7 +6,7 @@ var Fournisseur = model.Fournisseur;
 var Vol = model.Vol;
 
 
-
+// Intialisation des tables fournisseur et vol
 Fournisseur.remove({}, function(err) { 
    console.log('collection Fournisseur removed') 
 });
@@ -46,6 +46,7 @@ var nouveauVol = new Vol({
 });
 
 
+// Ajout manule de vols et de fournisseurs 
 mongoose.connect(url);
 
 nouveauFournisseur.save(function (err) {

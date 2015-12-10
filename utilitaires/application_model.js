@@ -1,6 +1,5 @@
 var mongoose = require('mongoose');
 var Schema = mongoose.Schema;
-var url = 'mongodb://localhost:27017/expediaplusplus'; // database url
 
 var membreShema = new Schema({
   nom:  String,
@@ -74,7 +73,7 @@ var packageShema = new Schema({
   prix:   Number
 });
 
-module.exports.ConnectionString    = url;     
+module.exports.ConnectionString    = "mongodb://inm5151:inm5151@ds027345.mongolab.com:27345/db_expediaplusplus"; // database url
 module.exports.Membre 			       = mongoose.model('Membre',membreShema);
 module.exports.NonMembre		       = mongoose.model('NonMembre',non_membreShema);
 module.exports.Administrateur      = mongoose.model('Administrateur',adminShema);
