@@ -113,6 +113,11 @@
                             <button type="submit" class="btn btn-default">Send</button>
                         </div>
                     </div>
+                    <label style="color:green">
+                            <% if(message) {%>
+                               <%= message %>
+                            <% } %>
+                    </label>                    
                 </form>
             </div>
         </div>

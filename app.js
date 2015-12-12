@@ -26,9 +26,15 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
-/* On utilise les sessions */
+
+/* 
+  On utilise les sessions 
+*/
 app.use(session({secret: 'expediaplusplussecret'}))
 
+/** 
+  On dirige la requete vers le bon controleur
+*/
 app.use('/', index);
 app.use('/users', users);
 app.use('/help', help);

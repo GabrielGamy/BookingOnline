@@ -1,9 +1,12 @@
+/** 
+	Controleur qui gere l'envoi de messages aux administrateur
+*/
 var express = require('express');
 var router = express.Router();
 
 var nodemailer = require('nodemailer');
-
-// create reusable transporter object using SMTP transport
+var message;
+// Creation de l'objet transporteur SMPT de courriel
 var transporter = nodemailer.createTransport({
     service: 'Gmail',
     auth: {
@@ -12,10 +15,17 @@ var transporter = nodemailer.createTransport({
     }
 });
 
+/** 
+	Permet d'acceder a la page d'aide
+*/
 router.get('/', function(req, res, next) {
-  res.render('help', { title: 'Express' });
+  res.render('help', { title: 'Aide',message: message });
 });
 
+/** 
+	Permet d'envoyer le message de l'utilisateur dans le courriel des admins.
+	Puis on le redirige sur la page d'acceuil
+*/
 router.post('/', function(req, res, next) {
 	console.log('mail :' + req.body.email);
 	var mailOptions = {
@@ -26,9 +36,10 @@ router.post('/', function(req, res, next) {
 		+ '<br/>' + req.body.message + '</b>'
 	};
 
-	// send mail with defined transport object
+	// Envoyer le mail avec le transporteur SMPT
 	transporter.sendMail(mailOptions, function(error, info){
-		res.redirect('/');
+		message = "Votre message est bien transmis";
+		res.redirect('/help');
 	});	
 });
 

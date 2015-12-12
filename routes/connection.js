@@ -1,3 +1,6 @@
+/** 
+	Controleur qui gere les connexions des membres
+*/
 var express = require('express');
 var router = express.Router();
 var mongoose = require('mongoose');
@@ -7,6 +10,11 @@ var Membre = model.Membre;
 
 var message_error;
 
+/**
+	Permet d'acceder a la page de connexion.
+	Si l'utilisateur est deja connecte (Sa variable session existe), 
+	alors il est directement redirige sur vers son compte.
+*/
 router.get('/', function(req, res, next) {
 	var message; 	
 	if(message_error) {
@@ -22,13 +30,22 @@ router.get('/', function(req, res, next) {
 	}
 });
 
+/**
+	Permet a l'utilisateur de se deconnecter en mettant les variables session a null..
+	Puis on le redirige sur la page d'acceuil.
+*/
 router.get('/logout', function(req, res, next) {
 	req.session.login = undefined;
 	req.session.last_name = undefined;
 	req.session.first_name = undefined;
+	// On le redirige sur la page d'acceuil
     res.redirect('/');
 });
 
+/** Permet de verifier les informations de connexion.
+	Si les donnees envoyes sont invalides, l'utilisateur est redirige vers son compte,
+	et les variables sessions sont sauvegardes.
+*/
 router.post('/', function(req, res, next) {
 	
 	mongoose.connect(url);

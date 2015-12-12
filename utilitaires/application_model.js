@@ -1,3 +1,7 @@
+/** 
+  Representation du model objet
+*/
+
 var mongoose = require('mongoose');
 var Schema = mongoose.Schema;
 
@@ -73,6 +77,9 @@ var packageShema = new Schema({
   prix:   Number
 });
 
+/** 
+  Rendre les objets disponibles dans les autres fichiers de l'application
+*/
 module.exports.ConnectionString    = "mongodb://inm5151:inm5151@ds027345.mongolab.com:27345/db_expediaplusplus"; // database url
 module.exports.Membre 			       = mongoose.model('Membre',membreShema);
 module.exports.NonMembre		       = mongoose.model('NonMembre',non_membreShema);
