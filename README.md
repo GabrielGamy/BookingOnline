@@ -1,4 +1,4 @@
-# Projet INM5151 Expedia++
+# Expedia++
 
 ## Running Locally
 
@@ -11,4 +11,4 @@ $ npm install
 $ npm start
 ```
 
-## Web Page: https://expediaplusplus.herokuapp.com/
+### Web Page: https://expediaplusplus.herokuapp.com/
