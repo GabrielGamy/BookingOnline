@@ -90,25 +90,6 @@
           "expiryDate" : "2018-08-21T03:59:20.228+0000",
           "lastModifiedDate" : "2018-08-21T03:59:20.228+0000"
         }
-      }, {
-        "id" : "8a2259f4-17e7-4b96-b23c-3f2f61d6c548",
-        "title" : "Maison A Vendre a North Alta",
-        "displayTitle" : "Maison A Vendre a N...",
-        "description" : "Maison A Vendre a North Alta\nVoluptatem provident nisi dignissimos doloremque. Voluptates numquam et commodi voluptatem perferendis eaque maxime. Possimus corrupti voluptatem earum alias. Sunt quia iusto veritatis et dolorum sunt quo. Modi hic autem dolores. Harum non et tempore. Consequuntur veritatis deleniti optio enim odit hic. Libero eos officiis voluptas. Sunt enim saepe placeat. Dolorem sunt sit. Tempore quae excepturi consequatur nostrum a. Quas consequatur praesentium ut exercitationem exercitationem dolor. Aliquid occaecati dolorem assumenda. Voluptatem dolorem maiores. Soluta odit optio odio velit.",
-        "cost" : 7.70632809942848E7,
-        "currency" : "CFA",
-        "ownerId" : "Admin1234",
-        "featured" : false,
-        "media" : {
-          "originalFileName" : "fashion-hat-straw-hat.jpg",
-          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
-          "s3FileName" : "8a2259f4-17e7-4b96-b23c-3f2f61d6c548-6",
-          "enabled" : true,
-          "creationDate" : "2018-08-21T03:58:19.948+0000",
-          "publishedDate" : "2018-08-21T03:59:20.229+0000",
-          "expiryDate" : "2018-08-21T03:59:20.229+0000",
-          "lastModifiedDate" : "2018-08-21T03:59:20.229+0000"
-        }
       } ]
     }, {
       "categoryId" : "ELECTRONICS",
@@ -195,44 +176,6 @@
           "expiryDate" : "2018-08-21T03:59:20.382+0000",
           "lastModifiedDate" : "2018-08-21T03:59:20.382+0000"
         }
-      }, {
-        "id" : "5b827211-cd75-4763-921a-7528d7b29a8b",
-        "title" : "Maison A louer a Kaitlinfort",
-        "displayTitle" : "Maison A louer a Ka...",
-        "description" : "Maison A louer a Kaitlinfort\nAb sit qui. Autem incidunt voluptas nostrum magni. Repudiandae velit iusto optio eum eos voluptatem. Neque et asperiores nostrum est voluptas eligendi debitis. Iusto et voluptates neque. Sed molestias ut. Natus cum voluptatibus minima quo. Odit aut porro doloribus cupiditate. Omnis dicta aperiam. Explicabo doloribus quisquam. Repellat quia praesentium est. Aliquam aut accusantium voluptas molestiae qui id voluptatum. Velit temporibus qui officia. Accusamus minus recusandae aspernatur ut. Consectetur laudantium assumenda explicabo. Ullam qui labore. Culpa quod perferendis et molestiae unde sunt.",
-        "cost" : 3.406323780922681E7,
-        "currency" : "CFA",
-        "ownerId" : "Admin1234",
-        "featured" : true,
-        "media" : {
-          "originalFileName" : "pexels-photo-164005.jpeg",
-          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
-          "s3FileName" : "5b827211-cd75-4763-921a-7528d7b29a8b-3",
-          "enabled" : true,
-          "creationDate" : "2018-08-21T03:58:11.856+0000",
-          "publishedDate" : "2018-08-21T03:59:20.383+0000",
-          "expiryDate" : "2018-08-21T03:59:20.383+0000",
-          "lastModifiedDate" : "2018-08-21T03:59:20.383+0000"
-        }
-      }, {
-        "id" : "01b17284-2a2e-4ef6-b6f0-63c0ee91298d",
-        "title" : "Maison A louer a Hershelmouth",
-        "displayTitle" : "Maison A louer a He...",
-        "description" : "Maison A louer a Hershelmouth\nVoluptas minima et. Aut repellat error facilis corporis sunt suscipit maiores. Expedita sit id ullam excepturi sed aliquam. Eaque nobis debitis. Aut et enim. Perspiciatis facere dicta. Veritatis ipsum et eveniet. Repudiandae enim blanditiis numquam aut expedita saepe. Blanditiis deleniti illo. Delectus ducimus temporibus repudiandae minima et provident. Et velit neque debitis aspernatur qui. Sequi voluptates sunt omnis ut eveniet quod. Ut eaque mollitia officiis est porro. Facere ex et consequatur sed voluptatem aut. Et illo aut sed nesciunt. Cupiditate suscipit voluptate non nesciunt. Rem quia et veritatis et et qui veniam.",
-        "cost" : 7.126535285835084E7,
-        "currency" : "CFA",
-        "ownerId" : "Admin1234",
-        "featured" : true,
-        "media" : {
-          "originalFileName" : "pexels-photo-297933.jpeg",
-          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
-          "s3FileName" : "01b17284-2a2e-4ef6-b6f0-63c0ee91298d-9",
-          "enabled" : true,
-          "creationDate" : "2018-08-21T03:58:13.385+0000",
-          "publishedDate" : "2018-08-21T03:59:20.383+0000",
-          "expiryDate" : "2018-08-21T03:59:20.383+0000",
-          "lastModifiedDate" : "2018-08-21T03:59:20.383+0000"
-        }
-      } ]
+      }]
     }]
 }
