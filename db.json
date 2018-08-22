@@ -16,7 +16,7 @@
         "media" : {
           "originalFileName" : "pexels-photo-214488.jpeg",
           "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
-          "s3FileName" : "1494ddfb-0ee2-41e8-bebf-424a36c3f629-4",
+          "s3FileName" : "1494ddfb-0ee2-41e8-bebf-424a36c3f629-4"
         }
       }, {
         "id" : "1ad43aa7-b533-4a3b-83c2-63d8d01e11b9",
