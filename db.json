@@ -1,0 +1,16 @@
+{
+  "categories": [
+    {
+      "id": 'categ-1',
+      "categoryId": 'categ-1',
+      "categoryName": 'Music',
+      "count": 1,
+      "ads": [
+        "title": 'Hip-Hop Music DVD',
+        "description": 'Obenez un coffre de music hip-hop',
+        "cost": 50,
+        currency: '$'
+      ]
+    }
+  ]
+}
