@@ -111,16 +111,6 @@
         }
       } ]
     }, {
-      "categoryId" : "KINDLE",
-      "categoryName" : "Kindle",
-      "total" : 0,
-      "ads" : [ ]
-    }, {
-      "categoryId" : "FIRE_TV",
-      "categoryName" : "Amazon Fire TV",
-      "total" : 0,
-      "ads" : [ ]
-    }, {
       "categoryId" : "ELECTRONICS",
       "categoryName" : "Electronics",
       "total" : 9,
@@ -181,31 +171,7 @@
           "expiryDate" : "2018-08-21T03:59:20.328+0000",
           "lastModifiedDate" : "2018-08-21T03:59:20.328+0000"
         }
-      }, {
-        "id" : "f0633b28-17ed-48fb-8e0b-ed8b0598f085",
-        "title" : "Maison A louer a Bodemouth",
-        "displayTitle" : "Maison A louer a Bo...",
-        "description" : "Maison A louer a Bodemouth\nDolorem consequatur veritatis quam sit dolorem magnam repudiandae. Voluptatem et vel quia dolor aspernatur non ut. Nulla cupiditate repellendus quasi aut expedita voluptatem fuga. Sapiente rerum eveniet. Rem quo sint rerum quibusdam autem. Doloribus numquam ad ea deleniti ipsa. Rerum eaque repellendus debitis reprehenderit. Provident amet et commodi. Quia aperiam repudiandae excepturi velit nam rerum. Accusantium nostrum velit. Voluptate labore atque. Veritatis sint eos. Quia dolorem placeat molestiae quam. Assumenda nihil nulla repellat. Qui dolorem non cupiditate officia. Minima et necessitatibus.",
-        "cost" : 2.6594801776428398E7,
-        "currency" : "CFA",
-        "ownerId" : "Admin1234",
-        "featured" : true,
-        "media" : {
-          "originalFileName" : "fashion-hat-straw-hat.jpg",
-          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
-          "s3FileName" : "f0633b28-17ed-48fb-8e0b-ed8b0598f085-2",
-          "enabled" : true,
-          "creationDate" : "2018-08-21T03:58:04.548+0000",
-          "publishedDate" : "2018-08-21T03:59:20.328+0000",
-          "expiryDate" : "2018-08-21T03:59:20.328+0000",
-          "lastModifiedDate" : "2018-08-21T03:59:20.328+0000"
-        }
-      } ]
-    }, {
-      "categoryId" : "SOFTWARE",
-      "categoryName" : "Software",
-      "total" : 0,
-      "ads" : [ ]
+      }]
     }, {
       "categoryId" : "HOME",
       "categoryName" : "Home, Kitchen, & Pets",
@@ -391,45 +357,7 @@
           "expiryDate" : "2018-08-21T03:59:20.465+0000",
           "lastModifiedDate" : "2018-08-21T03:59:20.465+0000"
         }
-      }, {
-        "id" : "f2da1e50-3376-498c-82fa-cc57319903a3",
-        "title" : "Maison A louer a Jakaylahaven",
-        "displayTitle" : "Maison A louer a Ja...",
-        "description" : "Maison A louer a Jakaylahaven\nIn omnis eum repellendus. Enim quibusdam enim est nobis. Neque ducimus enim maxime et. Nobis deserunt consequatur nisi dolores odit. Omnis veniam debitis ducimus blanditiis eligendi porro eaque. Eligendi impedit et sequi labore consectetur vel. Ipsum adipisci modi nostrum magnam et eius. Ad corrupti quasi sit ad repellendus voluptatem atque. Qui deleniti dolorem nobis doloremque culpa et. Quidem iure laborum suscipit sapiente. Placeat consequuntur sit. Quos sint dolor necessitatibus qui perferendis. Porro sint consectetur veritatis tempora quia fugit. Minus sit expedita ratione occaecati. Earum nemo aliquam qui nihil veritatis temporibus. Labore nam doloremque qui ut.",
-        "cost" : 4.3683563324849054E7,
-        "currency" : "CFA",
-        "ownerId" : "Admin1234",
-        "featured" : true,
-        "media" : {
-          "originalFileName" : "pexels-photo-297933.jpeg",
-          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
-          "s3FileName" : "f2da1e50-3376-498c-82fa-cc57319903a3-2",
-          "enabled" : true,
-          "creationDate" : "2018-08-21T03:58:09.002+0000",
-          "publishedDate" : "2018-08-21T03:59:20.465+0000",
-          "expiryDate" : "2018-08-21T03:59:20.465+0000",
-          "lastModifiedDate" : "2018-08-21T03:59:20.465+0000"
-        }
-      }, {
-        "id" : "598ad694-5162-4255-a422-16672db3700c",
-        "title" : "Maison A Vendre a New Annette",
-        "displayTitle" : "Maison A Vendre a N...",
-        "description" : "Maison A Vendre a New Annette\nNihil aut perferendis tenetur neque. Quia qui praesentium voluptatum. Molestiae possimus rerum sed sint et ut. Et enim ad magnam. Autem qui dolores dignissimos aut ut ut. Quo neque consequatur velit ut tempore ut. Iusto praesentium voluptatem. Nam iusto autem sint et ipsam et quia. Dolor sed modi. Vel nostrum possimus sed. Omnis consequatur quidem qui quibusdam neque voluptatem. Et impedit qui veniam et delectus et. Similique commodi non aut alias eveniet quod. Hic officia eum at. Ullam nesciunt maiores. Ut ipsa inventore quam et natus ut minus. Repellat consequatur ipsum maiores animi ut.",
-        "cost" : 1.3660335583146831E7,
-        "currency" : "CFA",
-        "ownerId" : "Admin1234",
-        "featured" : false,
-        "media" : {
-          "originalFileName" : "pexels-photo-164005.jpeg",
-          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
-          "s3FileName" : "598ad694-5162-4255-a422-16672db3700c-4",
-          "enabled" : true,
-          "creationDate" : "2018-08-21T03:58:17.281+0000",
-          "publishedDate" : "2018-08-21T03:59:20.465+0000",
-          "expiryDate" : "2018-08-21T03:59:20.465+0000",
-          "lastModifiedDate" : "2018-08-21T03:59:20.465+0000"
-        }
-      } ]
+      }]
     }, {
       "categoryId" : "CLOTHING_SHOES_JEWELRY",
       "categoryName" : "Clothing, Shoes & Jewelry",
@@ -514,44 +442,6 @@
           "publishedDate" : "2018-08-21T03:59:20.534+0000",
           "expiryDate" : "2018-08-21T03:59:20.534+0000",
           "lastModifiedDate" : "2018-08-21T03:59:20.534+0000"
-        }
-      }, {
-        "id" : "28c77961-5eb9-4057-8c56-75952ef0c391",
-        "title" : "Maison A louer a Kreigerbury",
-        "displayTitle" : "Maison A louer a Kr...",
-        "description" : "Maison A louer a Kreigerbury\nSunt itaque cumque voluptas optio. Eos saepe quae amet qui porro rerum iusto. Expedita suscipit voluptates. Aut fuga sit placeat saepe labore. Saepe sed tempore quibusdam est illo. Quia iusto et. Laudantium unde vel dolores saepe. Quis pariatur voluptatum nam. Non et voluptate. Debitis facilis saepe praesentium recusandae voluptatibus autem. Corrupti sequi impedit in. Et voluptatem et omnis. Recusandae quaerat voluptas debitis et minus illum. Et magnam iure et consectetur ut magnam nemo. Est est aspernatur et nesciunt eligendi qui ea.",
-        "cost" : 8055419.22476799,
-        "currency" : "CFA",
-        "ownerId" : "Admin1234",
-        "featured" : false,
-        "media" : {
-          "originalFileName" : "pexels-photo-253096.jpeg",
-          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
-          "s3FileName" : "28c77961-5eb9-4057-8c56-75952ef0c391-1",
-          "enabled" : true,
-          "creationDate" : "2018-08-21T03:57:42.384+0000",
-          "publishedDate" : "2018-08-21T03:59:20.534+0000",
-          "expiryDate" : "2018-08-21T03:59:20.534+0000",
-          "lastModifiedDate" : "2018-08-21T03:59:20.534+0000"
-        }
-      }, {
-        "id" : "fda1259f-f720-4f4b-a072-8a93ac0529f6",
-        "title" : "Maison A Vendre a Gloverton",
-        "displayTitle" : "Maison A Vendre a G...",
-        "description" : "Maison A Vendre a Gloverton\nVoluptas autem harum ad nam voluptatem voluptates. Et laborum exercitationem deserunt odio voluptas eligendi recusandae. Omnis nesciunt at consequatur dicta ipsum rem. Totam consequatur aut eaque molestiae sit quo cumque. Aut inventore ratione. Dolores molestiae voluptatem quaerat harum explicabo alias laboriosam. Natus repudiandae minima quidem porro ex qui quo. Esse officia quas blanditiis illum. Nisi maxime numquam dolore libero. In quisquam quae eveniet. Dolor et accusamus unde rerum aut voluptatum necessitatibus. Quisquam quas ad dolorem sapiente omnis accusantium qui. Reprehenderit quis ut qui libero porro. Exercitationem earum alias veniam illo. Odio omnis atque.",
-        "cost" : 1.259799633663921E7,
-        "currency" : "CFA",
-        "ownerId" : "Admin1234",
-        "featured" : false,
-        "media" : {
-          "originalFileName" : "pexels-photo-256396.jpeg",
-          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
-          "s3FileName" : "fda1259f-f720-4f4b-a072-8a93ac0529f6-4",
-          "enabled" : true,
-          "creationDate" : "2018-08-21T03:57:45.450+0000",
-          "publishedDate" : "2018-08-21T03:59:20.535+0000",
-          "expiryDate" : "2018-08-21T03:59:20.535+0000",
-          "lastModifiedDate" : "2018-08-21T03:59:20.535+0000"
         }
       }]
     }, {
