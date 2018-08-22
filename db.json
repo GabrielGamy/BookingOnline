@@ -16,12 +16,7 @@
         "media" : {
           "originalFileName" : "pexels-photo-214488.jpeg",
           "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
-          "s3FileName" : "08dd4dbb-65fe-473a-a5fc-ff950dfebc27-4",
-          "enabled" : true,
-          "creationDate" : "2018-08-21T03:57:01.090+0000",
-          "publishedDate" : "2018-08-21T03:59:20.164+0000",
-          "expiryDate" : "2018-08-21T03:59:20.164+0000",
-          "lastModifiedDate" : "2018-08-21T03:59:20.164+0000"
+          "s3FileName" : "1494ddfb-0ee2-41e8-bebf-424a36c3f629-4",
         }
       }, {
         "id" : "1ad43aa7-b533-4a3b-83c2-63d8d01e11b9",
@@ -35,12 +30,7 @@
         "media" : {
           "originalFileName" : "pexels-photo-253096.jpeg",
           "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
-          "s3FileName" : "1ad43aa7-b533-4a3b-83c2-63d8d01e11b9-5",
-          "enabled" : true,
-          "creationDate" : "2018-08-21T03:57:13.551+0000",
-          "publishedDate" : "2018-08-21T03:59:20.165+0000",
-          "expiryDate" : "2018-08-21T03:59:20.165+0000",
-          "lastModifiedDate" : "2018-08-21T03:59:20.165+0000"
+          "s3FileName" : "5a21d89d-dab0-4f89-b05b-d7625a34eba4-2"
         }
       }]
     }
