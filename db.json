@@ -1,3 +1,2112 @@
 {
-  "categories": []
+  "categories":  [ 
+    {
+      "categoryId" : "BOOKS",
+      "categoryName" : "Books & Audible",
+      "total" : 9,
+      "ads" : [ {
+        "id" : "08dd4dbb-65fe-473a-a5fc-ff950dfebc27",
+        "title" : "Maison A Vendre a Marquardthaven",
+        "displayTitle" : "Maison A Vendre a M...",
+        "description" : "Maison A Vendre a Marquardthaven\nPerspiciatis suscipit ea aut. Perferendis provident est corporis odio. Voluptatem dolorem cupiditate consequatur suscipit illum nobis. In voluptatem et. Eligendi omnis magnam eum. Officia mollitia voluptas nam qui. Iure rerum dignissimos in voluptatem ea voluptatem. Quidem nemo ex quos. Temporibus magnam totam id aliquid. Qui odit velit qui harum ut quia dicta. Sit quisquam provident. Ipsum adipisci incidunt dolor molestiae rerum. Iure quod fugit. Iure voluptatem eligendi. Velit cupiditate aut cumque aspernatur. Sed omnis aut libero. Praesentium deleniti nemo.",
+        "cost" : 5190551.462049501,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "pexels-photo-214488.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "08dd4dbb-65fe-473a-a5fc-ff950dfebc27-4",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:01.090+0000",
+          "publishedDate" : "2018-08-21T03:59:20.164+0000",
+          "expiryDate" : "2018-08-21T03:59:20.164+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.164+0000"
+        }
+      }, {
+        "id" : "1ad43aa7-b533-4a3b-83c2-63d8d01e11b9",
+        "title" : "Maison A louer a Weberstad",
+        "displayTitle" : "Maison A louer a We...",
+        "description" : "Maison A louer a Weberstad\nIn quaerat ut quia iste corrupti saepe ea. Est itaque excepturi. Beatae reprehenderit autem aliquid. Et sed molestiae ea distinctio. Quia doloremque eum dolores tenetur ut est quia. Facere quod omnis nihil. Iusto id eius molestias a odio tempore. Quos est vel cumque ipsam. Maxime odio alias officiis voluptates. Architecto quaerat enim aperiam ducimus. Est at non ullam vitae. Commodi voluptates quia voluptatem error quo. Non magnam pariatur ipsa. Minima laboriosam id deserunt ut. Est repellendus aspernatur dolores consectetur. Id eum nemo. Eaque ut quia voluptates.",
+        "cost" : 3.741919314667432E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : true,
+        "media" : {
+          "originalFileName" : "pexels-photo-253096.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "1ad43aa7-b533-4a3b-83c2-63d8d01e11b9-5",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:13.551+0000",
+          "publishedDate" : "2018-08-21T03:59:20.165+0000",
+          "expiryDate" : "2018-08-21T03:59:20.165+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.165+0000"
+        }
+      }, {
+        "id" : "1657b89e-7860-4f84-9419-0dfd992ac328",
+        "title" : "Maison A Vendre a Lake Nelliemouth",
+        "displayTitle" : "Maison A Vendre a L...",
+        "description" : "Maison A Vendre a Lake Nelliemouth\nAccusamus aperiam velit tenetur quidem. Atque officia ipsam natus natus minima expedita. Quo aut accusantium sit sint officiis voluptas. Et explicabo fugiat mollitia. Debitis nobis animi. Sed quae delectus quisquam. At qui non voluptatem tenetur. Vel voluptas tempora nihil aspernatur. Sapiente aspernatur sed animi. Quia nihil blanditiis eius. Velit dignissimos et dolores. Possimus sequi nostrum rerum. Voluptate sint aut et voluptatem possimus rem. Placeat et beatae sed distinctio recusandae quae. Excepturi sed quos hic cum.",
+        "cost" : 4.3433513939242564E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : true,
+        "media" : {
+          "originalFileName" : "pexels-photo-595809.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "1657b89e-7860-4f84-9419-0dfd992ac328-11",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:22.707+0000",
+          "publishedDate" : "2018-08-21T03:59:20.165+0000",
+          "expiryDate" : "2018-08-21T03:59:20.165+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.165+0000"
+        }
+      }, {
+        "id" : "c33a056f-d0ba-4ef5-a2a3-d2ff5c82bea2",
+        "title" : "Maison A Vendre a Aureliefurt",
+        "displayTitle" : "Maison A Vendre a A...",
+        "description" : "Maison A Vendre a Aureliefurt\nDicta sit natus magni fuga. Aut rem dolore. Quia eum enim aliquam exercitationem. Iste voluptatem et ut. Eligendi vel atque et molestiae non nam blanditiis. Soluta aperiam perferendis quidem. Laudantium esse consequatur velit. Ut debitis ut. Soluta voluptas officiis qui libero repellat molestiae. Praesentium natus eos aperiam. Libero expedita voluptas quisquam. Aut voluptatem autem. Non odit temporibus nihil. Impedit in ad molestias aperiam porro excepturi. Velit et et aut aut sed illo. Illum porro asperiores necessitatibus quidem quae distinctio. Culpa architecto adipisci excepturi aut dolor laborum quia.",
+        "cost" : 4.6312802084384136E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "pexels-photo-267320.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "c33a056f-d0ba-4ef5-a2a3-d2ff5c82bea2-12",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:27.629+0000",
+          "publishedDate" : "2018-08-21T03:59:20.166+0000",
+          "expiryDate" : "2018-08-21T03:59:20.166+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.166+0000"
+        }
+      }, {
+        "id" : "a7fcc43a-ad31-44a5-bbf5-e53a758cdfec",
+        "title" : "Maison A Vendre a West Jadenview",
+        "displayTitle" : "Maison A Vendre a W...",
+        "description" : "Maison A Vendre a West Jadenview\nTotam tempora id vel totam ut voluptatem. Eius a beatae. Laborum voluptate aut. Veritatis tenetur facere. Aut harum aut sint laboriosam dolore tempore repellat. Deleniti optio aut explicabo ut itaque cupiditate error. Debitis debitis porro consequatur. Perspiciatis cumque quibusdam id. Nam quia quis atque ipsa et explicabo. Doloribus occaecati accusamus nulla nisi. Est a molestias. Qui accusantium impedit illum. Similique est corrupti ut placeat quidem est. Aliquam saepe nesciunt officia tempora tempore aliquam. Esse distinctio architecto et maxime occaecati iste explicabo.",
+        "cost" : 5.6116720659714565E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "pexels-photo-1152077.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "a7fcc43a-ad31-44a5-bbf5-e53a758cdfec-1",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:33.130+0000",
+          "publishedDate" : "2018-08-21T03:59:20.166+0000",
+          "expiryDate" : "2018-08-21T03:59:20.166+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.166+0000"
+        }
+      }, {
+        "id" : "fe361642-8e33-4a1a-b494-c5c0c779874e",
+        "title" : "Maison A Vendre a West Brittany",
+        "displayTitle" : "Maison A Vendre a W...",
+        "description" : "Maison A Vendre a West Brittany\nExcepturi labore cupiditate asperiores corporis quia. Dolores officia numquam explicabo nulla. Ullam a aliquam sed. Aliquam temporibus optio ducimus odio iusto. Eos excepturi sint aperiam cumque quod. Dolore voluptatem temporibus perspiciatis animi debitis eius repellat. Hic quidem repellat illum numquam velit. Nemo quisquam dolores explicabo nostrum. Quis libero et ab aut corporis ex. Voluptates voluptates deserunt ad sit. Et illo a. Occaecati autem molestiae occaecati asperiores vel enim. Consequatur dignissimos quia nesciunt id. Ratione soluta nihil quaerat dignissimos. Repudiandae quisquam possimus similique.",
+        "cost" : 9.82084846041569E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : true,
+        "media" : {
+          "originalFileName" : "pexels-photo-323780.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "fe361642-8e33-4a1a-b494-c5c0c779874e-5",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:39.172+0000",
+          "publishedDate" : "2018-08-21T03:59:20.167+0000",
+          "expiryDate" : "2018-08-21T03:59:20.167+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.167+0000"
+        }
+      }, {
+        "id" : "2d1bd1f7-9b34-4d11-978d-ad14907f9fba",
+        "title" : "Maison A Vendre a Gleichnerside",
+        "displayTitle" : "Maison A Vendre a G...",
+        "description" : "Maison A Vendre a Gleichnerside\nHic adipisci cum voluptates quia autem. Enim et quaerat eaque consequatur at odio autem. Dolore est facilis sint quae ab. Ut tempore doloribus eligendi. Maxime aut fugit sint ullam aliquid et molestiae. At tenetur aut aut veniam expedita. Ut quidem deserunt quo delectus. Labore libero non. Quisquam consequatur error cupiditate sunt consectetur. Sequi eos iure quia cupiditate. Nam quis mollitia natus rerum itaque error. Fugiat voluptas corrupti aperiam quisquam quia aliquam. Ut aut mollitia molestiae veniam voluptas. Aut rerum quia quis. Omnis itaque inventore natus harum est. Iusto a animi maxime.",
+        "cost" : 7.500682139429317E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "fashion-hat-straw-hat.jpg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "2d1bd1f7-9b34-4d11-978d-ad14907f9fba-3",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:52.185+0000",
+          "publishedDate" : "2018-08-21T03:59:20.167+0000",
+          "expiryDate" : "2018-08-21T03:59:20.167+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.167+0000"
+        }
+      }, {
+        "id" : "192a8307-c009-4f3f-afe6-c5c18043ab33",
+        "title" : "Maison A louer a West Vidastad",
+        "displayTitle" : "Maison A louer a We...",
+        "description" : "Maison A louer a West Vidastad\nAut distinctio atque. Incidunt aliquid sint quisquam labore quis. Omnis quod expedita nesciunt nisi. Magnam aspernatur et sunt. In nisi ut iusto libero. Est aperiam nisi et eveniet ut. Veritatis velit corrupti rerum voluptatem sed. Nam sequi hic. Voluptatem quo autem consectetur excepturi ut debitis. Itaque sit sint similique et rem accusantium. Perferendis et adipisci dolores amet in. Veritatis animi dolore enim ipsam. Quo aperiam odit. Nisi qui dolore fugit sed. Similique rerum recusandae quia sit commodi. Blanditiis ut quo.",
+        "cost" : 9.962153095026088E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "pexels-photo-297933.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "192a8307-c009-4f3f-afe6-c5c18043ab33-4",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:58:05.339+0000",
+          "publishedDate" : "2018-08-21T03:59:20.168+0000",
+          "expiryDate" : "2018-08-21T03:59:20.168+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.168+0000"
+        }
+      }, {
+        "id" : "8cb3bfca-8963-4971-8251-1b1d6bb63ff2",
+        "title" : "Maison A louer a Bruenmouth",
+        "displayTitle" : "Maison A louer a Br...",
+        "description" : "Maison A louer a Bruenmouth\nCupiditate debitis hic eum sit ut. Eum magnam et. Nihil consequatur dolorum. Qui minus excepturi hic ut qui enim at. Aut cum autem. Officiis maiores magni vero ducimus. Occaecati et doloremque ut doloribus numquam. Temporibus necessitatibus deserunt perspiciatis nam. Et aliquid in ipsum est. Nihil excepturi consequuntur a. Odio error hic a voluptatem aut minima. Unde voluptatibus voluptas architecto illo. Soluta aspernatur incidunt aspernatur sed iusto. Ducimus sapiente labore in mollitia est. Corporis eveniet vel.",
+        "cost" : 9.418355420742474E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "pexels-photo-1152077.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "8cb3bfca-8963-4971-8251-1b1d6bb63ff2-1",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:58:12.427+0000",
+          "publishedDate" : "2018-08-21T03:59:20.168+0000",
+          "expiryDate" : "2018-08-21T03:59:20.168+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.168+0000"
+        }
+      } ]
+    }, {
+      "categoryId" : "MUSIC",
+      "categoryName" : "Music",
+      "total" : 10,
+      "ads" : [ {
+        "id" : "84fedae4-6c02-45f8-b850-6b78feb0e480",
+        "title" : "Maison A louer a West Trevaside",
+        "displayTitle" : "Maison A louer a We...",
+        "description" : "Maison A louer a West Trevaside\nRerum dicta nisi. Quae omnis tempora. Enim accusamus animi aliquam qui et repudiandae voluptatem. Illo eveniet sint. Dolor sit vel non alias eos dolorem quidem. Nemo voluptas totam incidunt. Alias quo aliquid eum debitis. Aut dolores eaque tempora sit dolorem quo. Possimus corrupti necessitatibus alias qui. Occaecati mollitia nihil dolores aut. Nostrum possimus commodi aut reprehenderit. Labore aliquid eum sunt molestiae hic accusantium. Sed suscipit qui exercitationem fugit architecto est consequatur. Sapiente excepturi sit omnis magnam reiciendis voluptatem. Ratione temporibus magnam iste.",
+        "cost" : 6.463559061577473E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : true,
+        "media" : {
+          "originalFileName" : "pexels-photo-1152077.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "84fedae4-6c02-45f8-b850-6b78feb0e480-4",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:04.029+0000",
+          "publishedDate" : "2018-08-21T03:59:20.192+0000",
+          "expiryDate" : "2018-08-21T03:59:20.192+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.192+0000"
+        }
+      }, {
+        "id" : "cdfc0e51-d462-4e51-992c-7e315d082195",
+        "title" : "Maison A Vendre a South Maiyafurt",
+        "displayTitle" : "Maison A Vendre a S...",
+        "description" : "Maison A Vendre a South Maiyafurt\nPlaceat qui et repudiandae. Molestiae est mollitia. Quas cumque eaque est et. Consequatur odit optio deleniti odio consequatur. Et eaque tempore. Doloremque ut voluptates reprehenderit. Quod id est qui exercitationem. Quo ex quisquam consequatur doloribus eveniet natus autem. Aut sed perferendis nostrum laudantium asperiores. Ea molestiae veritatis et exercitationem suscipit quos. Molestiae qui molestias deleniti eligendi. Maxime sed in. Ipsam modi voluptatem provident suscipit. Natus dolores ab quaerat. Vero quia earum eligendi sequi sit. Non dolorum ea ut molestias unde. Amet ipsam quas.",
+        "cost" : 7.35342116440397E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "pexels-photo-297933.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "cdfc0e51-d462-4e51-992c-7e315d082195-1",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:09.584+0000",
+          "publishedDate" : "2018-08-21T03:59:20.192+0000",
+          "expiryDate" : "2018-08-21T03:59:20.192+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.192+0000"
+        }
+      }, {
+        "id" : "b87f781f-6837-4905-b4f5-8f25805767f6",
+        "title" : "Maison A louer a Feilbury",
+        "displayTitle" : "Maison A louer a Fe...",
+        "description" : "Maison A louer a Feilbury\nReprehenderit ex et reprehenderit quasi eligendi. Quaerat culpa molestias ut et qui. Ea in repellendus. Sit minima aspernatur in nostrum. Sit voluptas dolor pariatur. Officiis est maiores. Et maxime enim. Et exercitationem at animi est amet. Libero harum aperiam. Enim accusamus dolorum sit dolores doloribus deserunt. Labore officiis eveniet expedita tempora minus numquam. Quos accusamus molestiae qui. Repudiandae aliquid quae consequuntur. Iure assumenda consequatur quibusdam a. Aperiam ullam accusamus deserunt ut est. Distinctio fuga ipsam quibusdam dicta et aliquam. Accusantium iusto ab voluptatem aut.",
+        "cost" : 6.906524095954318E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : true,
+        "media" : {
+          "originalFileName" : "pexels-photo-214488.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "b87f781f-6837-4905-b4f5-8f25805767f6-2",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:11.202+0000",
+          "publishedDate" : "2018-08-21T03:59:20.193+0000",
+          "expiryDate" : "2018-08-21T03:59:20.193+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.193+0000"
+        }
+      }, {
+        "id" : "06a55bd9-9291-41d1-82d2-1112b6a173ac",
+        "title" : "Maison A louer a O'Keefechester",
+        "displayTitle" : "Maison A louer a O'...",
+        "description" : "Maison A louer a O'Keefechester\nAut unde aut qui repellat. Voluptatibus animi aut. Ut qui dolores voluptatem rem tempore consequatur. Sit tempora sapiente et consectetur dolores. Nulla et deleniti. Enim placeat a omnis illo. Sint dolor architecto inventore voluptatem et qui. Eveniet esse facere natus facere. Nihil laudantium veniam omnis. Laudantium voluptatem dolores sequi deleniti esse officiis placeat. Commodi ipsa ut sit occaecati. Consequatur quaerat esse et rem ipsum praesentium magnam. In excepturi sit eos nostrum quidem vitae. Animi harum iure. Earum nihil totam optio. Eos dolorem voluptatibus aperiam sequi. Et accusantium odio aliquid.",
+        "cost" : 6.367408229466332E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : true,
+        "media" : {
+          "originalFileName" : "pexels-photo-267320.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "06a55bd9-9291-41d1-82d2-1112b6a173ac-3",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:18.547+0000",
+          "publishedDate" : "2018-08-21T03:59:20.193+0000",
+          "expiryDate" : "2018-08-21T03:59:20.193+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.193+0000"
+        }
+      }, {
+        "id" : "38d5a5cc-3504-40a5-80cb-08007af06491",
+        "title" : "Maison A Vendre a Botsfordville",
+        "displayTitle" : "Maison A Vendre a B...",
+        "description" : "Maison A Vendre a Botsfordville\nQuia laborum non. Doloribus doloremque aut corrupti earum id. Nesciunt assumenda accusamus ea autem voluptates molestias. Molestias eum sed minima. Modi aut quas quo vitae et modi deserunt. Ut illum praesentium doloremque. Sunt eaque maxime labore. Molestiae commodi eum sapiente ullam fugiat. Aut consequatur eos eos reiciendis. Veniam itaque assumenda qui. Qui quasi ducimus est voluptatem fuga. Repellendus repellendus quo ratione. Assumenda veniam reiciendis. Dolorem minima velit. Odit libero rerum quis unde.",
+        "cost" : 3.3371079598693784E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "pexels-photo-297933.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "38d5a5cc-3504-40a5-80cb-08007af06491-3",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:44.260+0000",
+          "publishedDate" : "2018-08-21T03:59:20.194+0000",
+          "expiryDate" : "2018-08-21T03:59:20.194+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.194+0000"
+        }
+      }, {
+        "id" : "aa88a286-bc4f-42e2-82a4-2e6e1049d649",
+        "title" : "Maison A louer a Mannborough",
+        "displayTitle" : "Maison A louer a Ma...",
+        "description" : "Maison A louer a Mannborough\nQuibusdam ut rem. Fugiat eos officiis nobis qui. Sit voluptate nihil quia dolorem et cum. Aspernatur quo adipisci a officiis aut et. Rem rerum provident qui non occaecati perferendis aut. Sed explicabo maiores suscipit non blanditiis enim vero. Neque nesciunt doloribus non repellat. Cupiditate reiciendis enim. Vel nihil ut voluptatem et culpa tenetur. Accusamus ipsam eos ea similique rerum sunt. Esse nihil aperiam quisquam. Rerum vitae libero iste enim ut. Recusandae reprehenderit optio pariatur. Et dolorum libero doloribus. Adipisci repellat quae nobis vero commodi quia.",
+        "cost" : 4.7712333719638616E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "pexels-photo-297933.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "aa88a286-bc4f-42e2-82a4-2e6e1049d649-2",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:45.748+0000",
+          "publishedDate" : "2018-08-21T03:59:20.194+0000",
+          "expiryDate" : "2018-08-21T03:59:20.194+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.194+0000"
+        }
+      }, {
+        "id" : "265f2889-294f-4b63-9bcc-c96538150c67",
+        "title" : "Maison A louer a Lake Ryleychester",
+        "displayTitle" : "Maison A louer a La...",
+        "description" : "Maison A louer a Lake Ryleychester\nFuga eveniet neque culpa magni nisi aperiam tempore. Rem eligendi soluta qui totam molestias minima repellat. Qui temporibus et tempore recusandae. Earum sapiente sint maxime quis et mollitia. Modi omnis distinctio rem. Rerum voluptas velit autem. Et rerum fugit et nihil. Cumque perspiciatis sint debitis nesciunt sed. Accusantium aspernatur nisi provident ab. Sunt quasi id incidunt et. Voluptate non voluptatem voluptas dolore voluptas. Soluta ex est architecto aut rerum eligendi. Vel omnis autem reiciendis non commodi officia deserunt. Fugiat optio aspernatur et non. Aperiam est atque deleniti dolores nihil vero.",
+        "cost" : 7.722925923992538E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "pexels-photo-297933.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "265f2889-294f-4b63-9bcc-c96538150c67-2",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:49.578+0000",
+          "publishedDate" : "2018-08-21T03:59:20.195+0000",
+          "expiryDate" : "2018-08-21T03:59:20.195+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.195+0000"
+        }
+      }, {
+        "id" : "7b48997b-626e-4a8c-bb17-3295ede2fa45",
+        "title" : "Maison A louer a Port Ciaraside",
+        "displayTitle" : "Maison A louer a Po...",
+        "description" : "Maison A louer a Port Ciaraside\nUt consequatur et deserunt qui expedita. Nisi fugiat adipisci. Cum est quaerat. Ut sequi qui omnis. Sit in ex non et. Ut in eum voluptatibus iusto neque et. Itaque eveniet numquam perferendis suscipit. Saepe autem beatae harum et nesciunt. Praesentium repellat optio. Sit accusantium suscipit libero quia. Deleniti qui impedit eveniet molestiae molestiae quod sed. Illo ut ipsam dolorum. In maiores nobis officiis repellendus molestiae. Nihil quae aliquam accusantium est vel ducimus. Consequatur quisquam qui doloribus nihil maiores veritatis. Occaecati repudiandae dicta distinctio.",
+        "cost" : 6.777208653561015E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "pexels-photo-256396.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "7b48997b-626e-4a8c-bb17-3295ede2fa45-8",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:48.151+0000",
+          "publishedDate" : "2018-08-21T03:59:20.195+0000",
+          "expiryDate" : "2018-08-21T03:59:20.195+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.195+0000"
+        }
+      }, {
+        "id" : "fc8a6e18-fb9c-4f39-ab30-bd948785a904",
+        "title" : "Maison A Vendre a Dayanamouth",
+        "displayTitle" : "Maison A Vendre a D...",
+        "description" : "Maison A Vendre a Dayanamouth\nInventore quia veniam voluptatem quis perspiciatis veritatis. Minima magnam ut. Hic similique aut ut ut. Perspiciatis maxime mollitia corporis ratione quam. Libero magni rem minus voluptas error sed. Doloribus ab odio tempora quasi dolorem harum ut. Recusandae enim repudiandae et a rerum. Est ex aliquam. Quia dignissimos earum non ipsum ut reprehenderit. Similique ratione cumque eligendi. Quo unde et pariatur. Inventore sunt quibusdam officiis dolores ut vel quisquam. Reprehenderit quaerat impedit veritatis. In consequatur dolore enim optio. Nulla voluptate ipsum alias. Nam iure est. Quis quaerat quia.",
+        "cost" : 6.10719524186815E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "pexels-photo-204611.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "fc8a6e18-fb9c-4f39-ab30-bd948785a904-1",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:47.493+0000",
+          "publishedDate" : "2018-08-21T03:59:20.196+0000",
+          "expiryDate" : "2018-08-21T03:59:20.196+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.196+0000"
+        }
+      }, {
+        "id" : "f1adb151-9441-4b6c-9aa1-25a2d7d97ea6",
+        "title" : "Maison A Vendre a West Juana",
+        "displayTitle" : "Maison A Vendre a W...",
+        "description" : "Maison A Vendre a West Juana\nMollitia dolorem inventore quia nam ex provident ex. In exercitationem tempore voluptatem porro. Perferendis enim placeat blanditiis similique autem laboriosam. Autem libero mollitia odio dicta doloremque eos et. Deleniti enim minima sunt quia eveniet. Qui ad est eaque. Sed rem animi sequi et veniam. Repudiandae occaecati distinctio possimus magni illum. Aut voluptatum vero laborum quibusdam et saepe repellendus. Labore facere labore officiis vitae. Ad sed aliquam aut consequatur. Cumque delectus dolor molestiae. Et natus delectus qui. Inventore adipisci aliquid ut voluptas. Harum perspiciatis distinctio doloribus iusto. Itaque aut explicabo odio. Est perferendis rerum recusandae.",
+        "cost" : 2.856484362859165E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "pexels-photo-106399.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "f1adb151-9441-4b6c-9aa1-25a2d7d97ea6-8",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:58:17.703+0000",
+          "publishedDate" : "2018-08-21T03:59:20.197+0000",
+          "expiryDate" : "2018-08-21T03:59:20.197+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.197+0000"
+        }
+      } ]
+    }, {
+      "categoryId" : "ECHO",
+      "categoryName" : "Echo & Alexa",
+      "total" : 6,
+      "ads" : [ {
+        "id" : "c58b15f1-43e9-4ff5-8021-b445ee84cc81",
+        "title" : "Maison A Vendre a Gabemouth",
+        "displayTitle" : "Maison A Vendre a G...",
+        "description" : "Maison A Vendre a Gabemouth\nIste occaecati excepturi saepe maxime molestias ut occaecati. Quam quaerat nemo et illum ea. Facilis eveniet quibusdam autem voluptatem cupiditate. Eius expedita similique aliquid qui inventore natus ut. Soluta iusto sunt impedit sunt repudiandae debitis dolores. Harum illum possimus rerum. Sed maiores at quia libero. Asperiores consequatur magnam minima eos inventore nobis impedit. Incidunt velit necessitatibus. Quae adipisci ullam minima corrupti vel ducimus vel. Nobis praesentium et provident necessitatibus. Deserunt exercitationem excepturi doloremque dolorem aperiam placeat eum. Inventore ducimus nihil placeat aut possimus accusantium. Nostrum est enim sit fuga magni. Consectetur suscipit et unde nulla assumenda consequatur sapiente. Deleniti voluptatum veritatis corporis in sint animi laboriosam.",
+        "cost" : 6.2517839217725195E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "mobile-phone-smartphone-tablet-white-40739.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "c58b15f1-43e9-4ff5-8021-b445ee84cc81-13",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:34.168+0000",
+          "publishedDate" : "2018-08-21T03:59:20.226+0000",
+          "expiryDate" : "2018-08-21T03:59:20.226+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.226+0000"
+        }
+      }, {
+        "id" : "99d80528-05e8-46c0-9245-1ea2f42b74be",
+        "title" : "Maison A Vendre a Blickmouth",
+        "displayTitle" : "Maison A Vendre a B...",
+        "description" : "Maison A Vendre a Blickmouth\nPorro quia dolore et veniam aliquid odit. Error sed id unde. Sunt odio qui dolorum quasi rerum. Aperiam ex dolores neque vel. Ut et qui quam culpa sit. Quidem dolorem id. Quae laborum dolorem culpa beatae praesentium soluta eveniet. Omnis soluta omnis sit nesciunt excepturi nulla odio. Quam inventore voluptatem facere harum ea. Velit vel aliquid placeat quod. Dolorum ut aspernatur ea atque autem quia. Sequi voluptatibus neque in. Mollitia voluptatibus sed doloribus ea. Eligendi consequatur error explicabo. Architecto repellat eum eum quos assumenda id. Qui sed occaecati eius ut illo nesciunt consequatur. Aut deleniti omnis non sapiente.",
+        "cost" : 8.662684367177117E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : true,
+        "media" : {
+          "originalFileName" : "mobile-phone-smartphone-tablet-white-40739.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "99d80528-05e8-46c0-9245-1ea2f42b74be-9",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:38.523+0000",
+          "publishedDate" : "2018-08-21T03:59:20.226+0000",
+          "expiryDate" : "2018-08-21T03:59:20.226+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.226+0000"
+        }
+      }, {
+        "id" : "6339351c-bc4d-486a-b470-01859b39e570",
+        "title" : "Maison A Vendre a Spencermouth",
+        "displayTitle" : "Maison A Vendre a S...",
+        "description" : "Maison A Vendre a Spencermouth\nAliquam omnis eum ipsa. Temporibus veritatis perspiciatis sed ducimus incidunt voluptatem. Voluptatum corrupti quidem voluptatem. Commodi vitae veritatis. Voluptatem et voluptatum quia molestiae sit autem. Accusantium quis corporis perferendis est aliquam recusandae. Quibusdam nihil possimus et dolorem at. Autem repudiandae numquam ut fuga laboriosam voluptates voluptas. Eum velit ratione perspiciatis ad atque. Architecto non illum aliquid eos aperiam soluta ullam. Eos aperiam aut mollitia maxime ut labore. Id fuga est aliquid rerum. Ut assumenda aut fugiat optio vel. Quae mollitia non iure. Consequatur dolores quis ut ad.",
+        "cost" : 1.7582585034419663E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : true,
+        "media" : {
+          "originalFileName" : "pexels-photo-170811.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "6339351c-bc4d-486a-b470-01859b39e570-8",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:39.853+0000",
+          "publishedDate" : "2018-08-21T03:59:20.227+0000",
+          "expiryDate" : "2018-08-21T03:59:20.227+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.227+0000"
+        }
+      }, {
+        "id" : "4a96348f-fcdc-4633-9bb4-451a82bb49e4",
+        "title" : "Maison A louer a Jennyferside",
+        "displayTitle" : "Maison A louer a Je...",
+        "description" : "Maison A louer a Jennyferside\nEnim ut sed culpa doloremque temporibus. Exercitationem est veniam culpa alias. Aut amet ex. Sunt modi quo quia accusantium molestiae sapiente. Illum qui aspernatur quia. Quaerat illum dicta non quas. Voluptatibus odit dolorum. Ut itaque fugiat in dolores quia. Incidunt ullam adipisci sint. Necessitatibus aut earum fuga impedit sunt voluptatem. Autem quia quasi dolorem porro neque soluta excepturi. Omnis suscipit consequatur. Aut est voluptate nesciunt et qui. Pariatur earum quas. Alias qui hic possimus dolorem sit. Nemo aut sit in consequatur illo. Expedita quod autem.",
+        "cost" : 9.2576748913695E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "pexels-photo-204611.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "4a96348f-fcdc-4633-9bb4-451a82bb49e4-6",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:49.943+0000",
+          "publishedDate" : "2018-08-21T03:59:20.227+0000",
+          "expiryDate" : "2018-08-21T03:59:20.227+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.227+0000"
+        }
+      }, {
+        "id" : "c5d8890b-333a-4bfb-997b-8148a1bd3b84",
+        "title" : "Maison A louer a Godfreytown",
+        "displayTitle" : "Maison A louer a Go...",
+        "description" : "Maison A louer a Godfreytown\nPariatur sunt explicabo. Eos voluptatibus ullam possimus velit numquam quod. Quos cumque earum nulla molestiae rem. Dolor et delectus expedita nam consequuntur voluptatem. Sint a eos recusandae aspernatur sunt. Recusandae ex ea at impedit dolorem. Deserunt esse est rerum nemo perferendis et doloremque. Velit magnam voluptatum error id sit adipisci. Est impedit incidunt consequatur. Molestiae sunt facere libero id qui fugiat sit. Et quia minus ad dicta. Illum dolorum ratione in. Voluptatibus aut doloremque repudiandae magni expedita non. Cupiditate earum libero voluptatem eius dolor rerum aut. Aliquam nisi amet minus repudiandae voluptatem.",
+        "cost" : 7.637585580131389E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : true,
+        "media" : {
+          "originalFileName" : "pexels-photo-256396.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "c5d8890b-333a-4bfb-997b-8148a1bd3b84-10",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:58:21.504+0000",
+          "publishedDate" : "2018-08-21T03:59:20.228+0000",
+          "expiryDate" : "2018-08-21T03:59:20.228+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.228+0000"
+        }
+      }, {
+        "id" : "8a2259f4-17e7-4b96-b23c-3f2f61d6c548",
+        "title" : "Maison A Vendre a North Alta",
+        "displayTitle" : "Maison A Vendre a N...",
+        "description" : "Maison A Vendre a North Alta\nVoluptatem provident nisi dignissimos doloremque. Voluptates numquam et commodi voluptatem perferendis eaque maxime. Possimus corrupti voluptatem earum alias. Sunt quia iusto veritatis et dolorum sunt quo. Modi hic autem dolores. Harum non et tempore. Consequuntur veritatis deleniti optio enim odit hic. Libero eos officiis voluptas. Sunt enim saepe placeat. Dolorem sunt sit. Tempore quae excepturi consequatur nostrum a. Quas consequatur praesentium ut exercitationem exercitationem dolor. Aliquid occaecati dolorem assumenda. Voluptatem dolorem maiores. Soluta odit optio odio velit.",
+        "cost" : 7.70632809942848E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "fashion-hat-straw-hat.jpg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "8a2259f4-17e7-4b96-b23c-3f2f61d6c548-6",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:58:19.948+0000",
+          "publishedDate" : "2018-08-21T03:59:20.229+0000",
+          "expiryDate" : "2018-08-21T03:59:20.229+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.229+0000"
+        }
+      } ]
+    }, {
+      "categoryId" : "KINDLE",
+      "categoryName" : "Kindle",
+      "total" : 0,
+      "ads" : [ ]
+    }, {
+      "categoryId" : "FIRE_TV",
+      "categoryName" : "Amazon Fire TV",
+      "total" : 0,
+      "ads" : [ ]
+    }, {
+      "categoryId" : "ELECTRONICS",
+      "categoryName" : "Electronics",
+      "total" : 9,
+      "ads" : [ {
+        "id" : "21ba6714-14b3-46a1-ae97-efa04eec6d9e",
+        "title" : "Maison A louer a Krystalbury",
+        "displayTitle" : "Maison A louer a Kr...",
+        "description" : "Maison A louer a Krystalbury\nRecusandae natus est reiciendis aut tempora qui. Dolorum recusandae placeat officiis cum. Inventore ducimus ullam maxime accusamus cumque voluptates distinctio. Nesciunt mollitia reiciendis sed. Quia harum impedit sint hic autem voluptatem. Aspernatur deserunt magni facere dolores eveniet. Sed doloribus rerum iusto consequatur commodi facere cumque. Quos at rerum. Dolor ratione omnis rem ut quia beatae aut. Nesciunt doloribus quibusdam eius temporibus. Distinctio in est natus maxime. Ad et unde dicta deleniti omnis. Aspernatur omnis facilis occaecati. Impedit minus aut optio. Aut enim aperiam ad. Aut necessitatibus et odio dolores.",
+        "cost" : 7.905433548819077E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "pexels-photo-164005.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "21ba6714-14b3-46a1-ae97-efa04eec6d9e-11",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:09.168+0000",
+          "publishedDate" : "2018-08-21T03:59:20.324+0000",
+          "expiryDate" : "2018-08-21T03:59:20.324+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.324+0000"
+        }
+      }, {
+        "id" : "e35c6244-b5b1-4213-a187-82d302999925",
+        "title" : "Maison A Vendre a Treyburgh",
+        "displayTitle" : "Maison A Vendre a T...",
+        "description" : "Maison A Vendre a Treyburgh\nAperiam aut qui sit culpa suscipit. Dolorum delectus veniam qui. Aliquid facere nobis qui praesentium et. Delectus at illum. Doloribus qui minus excepturi vel labore libero repellat. Sit similique rerum consequatur qui incidunt. Odio enim facilis quia doloribus. Sapiente debitis qui inventore repellat eligendi. Consequatur sed omnis id sed. Esse laudantium ea. Non autem recusandae. Deleniti et inventore ipsa nemo itaque ut recusandae. Est sapiente eligendi et iure quibusdam ratione officiis. Sapiente corporis voluptas quas non soluta cum. Est ipsum perferendis reiciendis repellendus quasi nesciunt. Voluptatem iste sunt minima ullam soluta quisquam. Praesentium earum ex perferendis officiis quos adipisci.",
+        "cost" : 1.6459462455528812E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "pexels-photo-699122.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "e35c6244-b5b1-4213-a187-82d302999925-3",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:08.439+0000",
+          "publishedDate" : "2018-08-21T03:59:20.324+0000",
+          "expiryDate" : "2018-08-21T03:59:20.324+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.324+0000"
+        }
+      }, {
+        "id" : "0cd6d5ae-1979-485a-a331-28b16f02ea03",
+        "title" : "Maison A Vendre a Dooleyport",
+        "displayTitle" : "Maison A Vendre a D...",
+        "description" : "Maison A Vendre a Dooleyport\nRerum non nobis. Laudantium magni sed aspernatur occaecati sed. Molestiae ut est molestiae asperiores fugit. Nihil asperiores consequuntur quo ut veniam placeat nam. Inventore voluptate non dignissimos numquam quos molestias. Voluptatem molestias perspiciatis cum. Ut sit et corrupti molestias sunt nemo aut. Ea magni quas error. Nam nobis quos magni. Molestiae pariatur tempore et. Quia harum cumque voluptatem ut placeat. Est molestias nesciunt quo doloribus sit in. Aperiam eligendi ad et voluptates saepe. Esse sequi sapiente. Quisquam sint similique rerum id.",
+        "cost" : 2.477703655762679E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "pexels-photo-164005.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "0cd6d5ae-1979-485a-a331-28b16f02ea03-11",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:20.237+0000",
+          "publishedDate" : "2018-08-21T03:59:20.325+0000",
+          "expiryDate" : "2018-08-21T03:59:20.325+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.325+0000"
+        }
+      }, {
+        "id" : "1b8dadca-feec-49c6-90dd-1d4aa7d46f40",
+        "title" : "Maison A Vendre a East Myrna",
+        "displayTitle" : "Maison A Vendre a E...",
+        "description" : "Maison A Vendre a East Myrna\nDistinctio rerum quidem nisi molestiae. Hic quo ipsum voluptatum minima dolores accusantium occaecati. Laudantium eos ut ab iure eaque explicabo qui. Sunt sit maiores. Repellat in qui praesentium. Qui eaque ex et qui est. Quis sapiente consequuntur. Nesciunt similique possimus eum. Et dicta sunt officia tenetur ipsam. Iusto eveniet nostrum. Unde natus enim quia enim ex quis voluptate. Est consectetur ut eaque ab occaecati. Veritatis recusandae corrupti non molestiae molestiae repellendus ut. Voluptates et sint vero quo dignissimos. Velit ut ex.",
+        "cost" : 9.514266989284998E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "mobile-phone-samsung-music-39592.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "1b8dadca-feec-49c6-90dd-1d4aa7d46f40-7",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:46.721+0000",
+          "publishedDate" : "2018-08-21T03:59:20.326+0000",
+          "expiryDate" : "2018-08-21T03:59:20.326+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.326+0000"
+        }
+      }, {
+        "id" : "3f5c050f-e124-493e-aa20-2e8e0265902f",
+        "title" : "Maison A Vendre a Lake Heloise",
+        "displayTitle" : "Maison A Vendre a L...",
+        "description" : "Maison A Vendre a Lake Heloise\nEa iste qui aspernatur voluptatem odio sunt. Ipsam aut a nihil dolor tenetur. Ipsa est facere sint ab eius in. Facilis saepe aliquam. Tenetur ratione repudiandae numquam. Itaque suscipit commodi facere molestias quis amet eveniet. Officia architecto aut sint sed qui. Laudantium architecto esse ut eum non explicabo velit. Sit animi a. Ut corporis aperiam. Veritatis dolor sapiente rem. Nam sint et. Ullam eligendi commodi repudiandae rem et modi. Perferendis possimus et saepe quo quidem. Voluptate maxime tempore. Saepe eos tempora ab dolor nemo temporibus quia.",
+        "cost" : 5.272730259832363E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "pexels-photo-595809.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "3f5c050f-e124-493e-aa20-2e8e0265902f-3",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:57.566+0000",
+          "publishedDate" : "2018-08-21T03:59:20.326+0000",
+          "expiryDate" : "2018-08-21T03:59:20.326+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.326+0000"
+        }
+      }, {
+        "id" : "c177bcd1-3bf1-46f2-93a0-0038a73ccd3e",
+        "title" : "Maison A Vendre a North Darien",
+        "displayTitle" : "Maison A Vendre a N...",
+        "description" : "Maison A Vendre a North Darien\nMolestiae voluptatem consequatur. Inventore voluptatem quibusdam. Aliquid suscipit possimus. Explicabo mollitia repellendus. Voluptate repellendus laudantium. Quo delectus ut. Et dolores sunt nobis est impedit ut. Rerum quo qui dolorum. Odio sed recusandae quia itaque aut. Quasi soluta corrupti perferendis sit labore voluptatibus. In non porro delectus fugiat cupiditate rerum sunt. Non odio rerum voluptates maiores consequatur deleniti deserunt. Numquam non maxime. Dolores et iure nulla veritatis id esse. Ut perferendis qui natus.",
+        "cost" : 5.123456864638904E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : true,
+        "media" : {
+          "originalFileName" : "pexels-photo-297933.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "c177bcd1-3bf1-46f2-93a0-0038a73ccd3e-6",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:54.318+0000",
+          "publishedDate" : "2018-08-21T03:59:20.327+0000",
+          "expiryDate" : "2018-08-21T03:59:20.327+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.327+0000"
+        }
+      }, {
+        "id" : "7a410afb-a388-4924-ad99-198bffdadb72",
+        "title" : "Maison A louer a Kraigbury",
+        "displayTitle" : "Maison A louer a Kr...",
+        "description" : "Maison A louer a Kraigbury\nSapiente maxime ex placeat blanditiis. Ea eveniet ut magni. Quia ea qui necessitatibus aliquid expedita consequuntur. Corporis sed animi illum. Veniam optio quia itaque quia nesciunt. Repellat laboriosam voluptatibus voluptatibus qui modi quo. Amet ut recusandae ea nesciunt quibusdam fugiat. Vel velit deleniti praesentium. Rem sed vel consectetur quam in. Ea inventore quae excepturi. Ducimus repellat ut facilis. Architecto qui deserunt itaque impedit quae. Modi aliquam molestias corporis. Molestiae in aut deleniti dignissimos. Fugit amet quam totam a id excepturi. Error rem numquam qui. Eum ipsum officia ratione est incidunt eum voluptatem.",
+        "cost" : 3.795871309152642E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : true,
+        "media" : {
+          "originalFileName" : "pexels-photo-204611.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "7a410afb-a388-4924-ad99-198bffdadb72-10",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:58:01.300+0000",
+          "publishedDate" : "2018-08-21T03:59:20.327+0000",
+          "expiryDate" : "2018-08-21T03:59:20.327+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.327+0000"
+        }
+      }, {
+        "id" : "92aa06c8-6495-444c-99bc-fa05838b5bf3",
+        "title" : "Maison A Vendre a Port Bill",
+        "displayTitle" : "Maison A Vendre a P...",
+        "description" : "Maison A Vendre a Port Bill\nDelectus et ipsum iusto amet quibusdam cupiditate magni. Sit sunt officia doloribus ut consequatur. Ut ea laboriosam nobis sed dicta fugit. Aut sequi minima modi. Nisi ipsam neque aut voluptas. Et perferendis facilis cum. Laudantium nihil molestiae. Saepe blanditiis possimus voluptas. Aliquam omnis dicta at ut earum. Rerum impedit voluptatem iure labore in. Officia quia consequatur consequatur magnam voluptates. Repellat error dolores minima. Et voluptatem praesentium perspiciatis odio. Aut rerum dolorum aut sapiente. Velit aliquam cupiditate necessitatibus sit excepturi. Delectus omnis dolorum alias ut. Ea praesentium praesentium labore suscipit architecto asperiores qui.",
+        "cost" : 4.078706538718627E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : true,
+        "media" : {
+          "originalFileName" : "pexels-photo-595809.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "92aa06c8-6495-444c-99bc-fa05838b5bf3-10",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:58:00.929+0000",
+          "publishedDate" : "2018-08-21T03:59:20.328+0000",
+          "expiryDate" : "2018-08-21T03:59:20.328+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.328+0000"
+        }
+      }, {
+        "id" : "f0633b28-17ed-48fb-8e0b-ed8b0598f085",
+        "title" : "Maison A louer a Bodemouth",
+        "displayTitle" : "Maison A louer a Bo...",
+        "description" : "Maison A louer a Bodemouth\nDolorem consequatur veritatis quam sit dolorem magnam repudiandae. Voluptatem et vel quia dolor aspernatur non ut. Nulla cupiditate repellendus quasi aut expedita voluptatem fuga. Sapiente rerum eveniet. Rem quo sint rerum quibusdam autem. Doloribus numquam ad ea deleniti ipsa. Rerum eaque repellendus debitis reprehenderit. Provident amet et commodi. Quia aperiam repudiandae excepturi velit nam rerum. Accusantium nostrum velit. Voluptate labore atque. Veritatis sint eos. Quia dolorem placeat molestiae quam. Assumenda nihil nulla repellat. Qui dolorem non cupiditate officia. Minima et necessitatibus.",
+        "cost" : 2.6594801776428398E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : true,
+        "media" : {
+          "originalFileName" : "fashion-hat-straw-hat.jpg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "f0633b28-17ed-48fb-8e0b-ed8b0598f085-2",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:58:04.548+0000",
+          "publishedDate" : "2018-08-21T03:59:20.328+0000",
+          "expiryDate" : "2018-08-21T03:59:20.328+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.328+0000"
+        }
+      } ]
+    }, {
+      "categoryId" : "SOFTWARE",
+      "categoryName" : "Software",
+      "total" : 0,
+      "ads" : [ ]
+    }, {
+      "categoryId" : "HOME",
+      "categoryName" : "Home, Kitchen, & Pets",
+      "total" : 12,
+      "ads" : [ {
+        "id" : "50630ad4-58df-4523-937e-4199ca8f7a3a",
+        "title" : "Maison A Vendre a Sawaynmouth",
+        "displayTitle" : "Maison A Vendre a S...",
+        "description" : "Maison A Vendre a Sawaynmouth\nFacilis sed ullam temporibus dolor omnis et. Dignissimos ducimus illo. Facere delectus magnam vero ut. Corrupti consequatur optio consequatur et nulla. Doloremque rerum asperiores quam ipsum. Aspernatur vel sapiente similique numquam vel. Dolores voluptas et sit. Aut similique et possimus aliquam laudantium quibusdam quis. Sequi et voluptatem velit dignissimos vitae magnam corporis. Iusto vero sequi animi at itaque autem impedit. Ut magnam ullam nisi sed eligendi sapiente. Magnam autem eum ab debitis consectetur. Excepturi quibusdam necessitatibus. Autem culpa illum. Ut iste consequatur sit at id placeat enim. Aut dolorem ut pariatur et ut suscipit explicabo. Sit earum nostrum dignissimos molestias ut.",
+        "cost" : 1.258789680121192E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "pexels-photo-267320.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "50630ad4-58df-4523-937e-4199ca8f7a3a-6",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:56:48.167+0000",
+          "publishedDate" : "2018-08-21T03:59:20.378+0000",
+          "expiryDate" : "2018-08-21T03:59:20.378+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.378+0000"
+        }
+      }, {
+        "id" : "bf1e1891-00bd-4f1c-a387-209056a595d8",
+        "title" : "Maison A Vendre a Port Vidashire",
+        "displayTitle" : "Maison A Vendre a P...",
+        "description" : "Maison A Vendre a Port Vidashire\nNeque illum magni. In ex velit ea perspiciatis non et qui. Assumenda laborum illum hic aperiam sit sequi placeat. Exercitationem odit ab. Nesciunt cumque est ipsam voluptatibus nesciunt facere vel. Consectetur ratione ab ipsam et delectus illo architecto. Aut mollitia nisi odio. Eligendi earum et vitae sint ab. Similique rerum sit aut. Consequatur iure dolor et architecto. Autem rerum facilis animi. Aut fugiat ea. Sint itaque dicta. In explicabo consequatur. Odit autem atque sint quas corrupti. Vitae eaque nam omnis commodi similique nihil.",
+        "cost" : 8.41462065448053E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "mobile-phone-smartphone-tablet-white-40739.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "bf1e1891-00bd-4f1c-a387-209056a595d8-3",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:56:50.268+0000",
+          "publishedDate" : "2018-08-21T03:59:20.378+0000",
+          "expiryDate" : "2018-08-21T03:59:20.378+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.378+0000"
+        }
+      }, {
+        "id" : "983e7dc2-986e-4793-b1f3-2504e35e7167",
+        "title" : "Maison A Vendre a Port Tyrellshire",
+        "displayTitle" : "Maison A Vendre a P...",
+        "description" : "Maison A Vendre a Port Tyrellshire\nDebitis totam at. Magni et architecto. Quam rerum suscipit aut delectus voluptatem quis. Illum ut molestias possimus soluta non. Sed ducimus maiores quia hic. Amet fuga dolore. Et distinctio facere iure quo fugiat quo. Maiores beatae ab cum quos. Quidem voluptatibus aut quasi est. Enim nihil nobis ut voluptatibus aut dolores autem. Sed voluptatum blanditiis. Quia sed saepe et perspiciatis. Cum velit dolorem unde alias laboriosam ab. Aut adipisci corrupti est architecto dolorem. Qui dolor quam. Cupiditate eius ab eum laboriosam.",
+        "cost" : 7.474149652679054E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : true,
+        "media" : {
+          "originalFileName" : "fashion-hat-straw-hat.jpg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "983e7dc2-986e-4793-b1f3-2504e35e7167-12",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:02.786+0000",
+          "publishedDate" : "2018-08-21T03:59:20.379+0000",
+          "expiryDate" : "2018-08-21T03:59:20.379+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.379+0000"
+        }
+      }, {
+        "id" : "ff459154-7aa2-4c95-8cc5-45340b5e9193",
+        "title" : "Maison A louer a East Emieland",
+        "displayTitle" : "Maison A louer a Ea...",
+        "description" : "Maison A louer a East Emieland\nNulla voluptatibus hic doloribus repellendus corporis ullam. Id ut minus et ea nemo. Error sint velit ut corrupti iste. Neque enim et et. Et dolorem et sed. Id et quas cupiditate. Quisquam excepturi quis non ea ab molestias. Perferendis iusto accusamus perferendis. Earum nostrum rerum totam. Sint vel ipsum eum. Amet ut fuga accusamus blanditiis. Eos qui dicta voluptate vel soluta sit. Cupiditate in quaerat libero sequi ea. Sit quasi nihil harum tenetur. Distinctio qui et quaerat.",
+        "cost" : 4.121674687191473E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "mobile-phone-samsung-music-39592.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "ff459154-7aa2-4c95-8cc5-45340b5e9193-3",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:17.295+0000",
+          "publishedDate" : "2018-08-21T03:59:20.379+0000",
+          "expiryDate" : "2018-08-21T03:59:20.379+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.379+0000"
+        }
+      }, {
+        "id" : "cb1fb088-d17a-4a42-8a5c-162048740bdc",
+        "title" : "Maison A louer a Lincolnland",
+        "displayTitle" : "Maison A louer a Li...",
+        "description" : "Maison A louer a Lincolnland\nMollitia aspernatur enim velit. Ipsam velit optio voluptas pariatur. Ipsam consectetur tenetur similique quis iste consequuntur et. Vero debitis dolore reprehenderit qui optio eius. Expedita totam sunt exercitationem sunt. Labore earum quia necessitatibus quo ipsam. Fugit id sed ab laboriosam ipsum perferendis. Veniam molestiae illum. Ducimus perspiciatis atque. Quae voluptatem id dolorum autem dolorem. Expedita est nemo aperiam qui error id. Est officiis iusto sint. Illo fuga repudiandae beatae aut id nam sint. Ullam ipsam autem nemo animi inventore. Dolor minus distinctio facilis. Temporibus fuga at saepe.",
+        "cost" : 1.9449550583587177E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : true,
+        "media" : {
+          "originalFileName" : "pexels-photo-934673.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "cb1fb088-d17a-4a42-8a5c-162048740bdc-11",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:35.661+0000",
+          "publishedDate" : "2018-08-21T03:59:20.380+0000",
+          "expiryDate" : "2018-08-21T03:59:20.380+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.380+0000"
+        }
+      }, {
+        "id" : "9b10f7aa-e7be-4d13-8515-3acfda7f2a85",
+        "title" : "Maison A louer a Lake Ryannside",
+        "displayTitle" : "Maison A louer a La...",
+        "description" : "Maison A louer a Lake Ryannside\nEt numquam et eos facilis officia unde suscipit. Eaque eveniet rerum. Nesciunt debitis est. Perspiciatis esse tenetur aut porro. Vel qui voluptatem. Delectus quam autem delectus illo recusandae beatae reprehenderit. Inventore commodi numquam harum nesciunt. Qui dolorum odit. Nisi nulla necessitatibus inventore voluptas. Et adipisci voluptas quod et. Laborum facere quos architecto rerum velit sit in. Exercitationem commodi quia molestiae aspernatur. Veritatis vel incidunt qui. Dolore culpa inventore. Libero fugiat dolorem. Molestiae id consequatur dolorem libero.",
+        "cost" : 4.629785082936032E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "pexels-photo-170811.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "9b10f7aa-e7be-4d13-8515-3acfda7f2a85-1",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:40.757+0000",
+          "publishedDate" : "2018-08-21T03:59:20.380+0000",
+          "expiryDate" : "2018-08-21T03:59:20.380+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.380+0000"
+        }
+      }, {
+        "id" : "0f9cee74-e250-45d6-886f-668b21af362e",
+        "title" : "Maison A louer a Lehnertown",
+        "displayTitle" : "Maison A louer a Le...",
+        "description" : "Maison A louer a Lehnertown\nMolestiae qui a qui dolores. Et sequi pariatur iure et. Facilis magnam amet. Quas aut eveniet quibusdam. Aut repellat sunt delectus voluptate aspernatur. Consequatur eius reiciendis veritatis commodi nisi. Tempora quo ut suscipit qui autem adipisci. Reiciendis accusamus perspiciatis nulla vero dolores. Est laboriosam expedita consectetur ut consectetur dolores vero. Quaerat aspernatur reiciendis dolorem consequatur aut. Aspernatur et cupiditate. Animi dolor velit. Velit qui quasi quod hic ex voluptas delectus. Et esse omnis. Qui quibusdam delectus sed. Consequatur nihil sit eaque fugiat molestias qui.",
+        "cost" : 4.888661949109823E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : true,
+        "media" : {
+          "originalFileName" : "pexels-photo-934673.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "0f9cee74-e250-45d6-886f-668b21af362e-4",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:42.688+0000",
+          "publishedDate" : "2018-08-21T03:59:20.381+0000",
+          "expiryDate" : "2018-08-21T03:59:20.381+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.381+0000"
+        }
+      }, {
+        "id" : "82a2a841-4fa6-4fca-a3dd-957945bc1111",
+        "title" : "Maison A louer a South Jaquan",
+        "displayTitle" : "Maison A louer a So...",
+        "description" : "Maison A louer a South Jaquan\nEaque possimus perferendis. Et qui vel reiciendis aut maxime rem sequi. Provident nam enim. In voluptatem ratione. Voluptatum vel dolore at porro. Ullam doloremque possimus eos. Iste nobis quibusdam molestiae et. Et eius aut doloribus ipsa provident reiciendis illo. Dicta veniam qui omnis eum. Qui veniam quo qui ut aut recusandae voluptatibus. Cupiditate eum libero unde omnis sit incidunt natus. Et quis rem. Modi voluptatem illum magnam asperiores dolorem sit nemo. Eum velit nobis laboriosam. Laborum mollitia eum excepturi. Dolor distinctio qui dolore debitis consequatur ipsum itaque.",
+        "cost" : 6.759502126168534E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : true,
+        "media" : {
+          "originalFileName" : "pexels-photo-323780.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "82a2a841-4fa6-4fca-a3dd-957945bc1111-6",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:44.673+0000",
+          "publishedDate" : "2018-08-21T03:59:20.381+0000",
+          "expiryDate" : "2018-08-21T03:59:20.381+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.381+0000"
+        }
+      }, {
+        "id" : "4964b451-7b53-4134-a4fd-9422ee8ea62d",
+        "title" : "Maison A louer a North Milofurt",
+        "displayTitle" : "Maison A louer a No...",
+        "description" : "Maison A louer a North Milofurt\nPerspiciatis ipsa accusamus perspiciatis praesentium voluptatem. Vel aut pariatur quo sit. Quae asperiores numquam. Id totam sint. Non ut iure magnam quod corporis dolores reprehenderit. Dolorem commodi est et totam voluptas nemo quis. Minima quos in rerum porro porro aut. Eaque voluptas atque odio eaque nostrum veritatis. Voluptatem explicabo doloremque sit doloribus eligendi quod magnam. Necessitatibus quae iure et sapiente. Enim possimus dolorem dignissimos distinctio. Alias illo blanditiis natus. Id numquam quod et officiis ut alias. Assumenda et blanditiis sed quos. Fugiat velit aliquam et eum quo quo ipsam. Et nobis incidunt dolore.",
+        "cost" : 2.2353957764874198E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : true,
+        "media" : {
+          "originalFileName" : "pexels-photo-253096.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "4964b451-7b53-4134-a4fd-9422ee8ea62d-2",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:50.306+0000",
+          "publishedDate" : "2018-08-21T03:59:20.382+0000",
+          "expiryDate" : "2018-08-21T03:59:20.382+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.382+0000"
+        }
+      }, {
+        "id" : "1f40f152-0b8f-48e4-b7e6-1a789ba3f207",
+        "title" : "Maison A louer a South Jenafort",
+        "displayTitle" : "Maison A louer a So...",
+        "description" : "Maison A louer a South Jenafort\nSunt et laboriosam quia a sint. Quis doloremque accusantium. Aut provident vero qui et. Repellat sit vel culpa ut. Saepe distinctio nam. A rerum iure dolor. Quasi corporis et magni quam quod expedita. Aut eum debitis optio. Neque tenetur molestiae fugiat. Est ducimus neque explicabo similique optio omnis. Eum qui et quam. Nihil quaerat illum sequi. Quia maiores laborum sequi sit eveniet fugit. Ducimus labore quis. Qui illum natus.",
+        "cost" : 5.655400634805733E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "pexels-photo-170811.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "1f40f152-0b8f-48e4-b7e6-1a789ba3f207-5",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:58:11.404+0000",
+          "publishedDate" : "2018-08-21T03:59:20.382+0000",
+          "expiryDate" : "2018-08-21T03:59:20.382+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.382+0000"
+        }
+      }, {
+        "id" : "5b827211-cd75-4763-921a-7528d7b29a8b",
+        "title" : "Maison A louer a Kaitlinfort",
+        "displayTitle" : "Maison A louer a Ka...",
+        "description" : "Maison A louer a Kaitlinfort\nAb sit qui. Autem incidunt voluptas nostrum magni. Repudiandae velit iusto optio eum eos voluptatem. Neque et asperiores nostrum est voluptas eligendi debitis. Iusto et voluptates neque. Sed molestias ut. Natus cum voluptatibus minima quo. Odit aut porro doloribus cupiditate. Omnis dicta aperiam. Explicabo doloribus quisquam. Repellat quia praesentium est. Aliquam aut accusantium voluptas molestiae qui id voluptatum. Velit temporibus qui officia. Accusamus minus recusandae aspernatur ut. Consectetur laudantium assumenda explicabo. Ullam qui labore. Culpa quod perferendis et molestiae unde sunt.",
+        "cost" : 3.406323780922681E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : true,
+        "media" : {
+          "originalFileName" : "pexels-photo-164005.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "5b827211-cd75-4763-921a-7528d7b29a8b-3",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:58:11.856+0000",
+          "publishedDate" : "2018-08-21T03:59:20.383+0000",
+          "expiryDate" : "2018-08-21T03:59:20.383+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.383+0000"
+        }
+      }, {
+        "id" : "01b17284-2a2e-4ef6-b6f0-63c0ee91298d",
+        "title" : "Maison A louer a Hershelmouth",
+        "displayTitle" : "Maison A louer a He...",
+        "description" : "Maison A louer a Hershelmouth\nVoluptas minima et. Aut repellat error facilis corporis sunt suscipit maiores. Expedita sit id ullam excepturi sed aliquam. Eaque nobis debitis. Aut et enim. Perspiciatis facere dicta. Veritatis ipsum et eveniet. Repudiandae enim blanditiis numquam aut expedita saepe. Blanditiis deleniti illo. Delectus ducimus temporibus repudiandae minima et provident. Et velit neque debitis aspernatur qui. Sequi voluptates sunt omnis ut eveniet quod. Ut eaque mollitia officiis est porro. Facere ex et consequatur sed voluptatem aut. Et illo aut sed nesciunt. Cupiditate suscipit voluptate non nesciunt. Rem quia et veritatis et et qui veniam.",
+        "cost" : 7.126535285835084E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : true,
+        "media" : {
+          "originalFileName" : "pexels-photo-297933.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "01b17284-2a2e-4ef6-b6f0-63c0ee91298d-9",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:58:13.385+0000",
+          "publishedDate" : "2018-08-21T03:59:20.383+0000",
+          "expiryDate" : "2018-08-21T03:59:20.383+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.383+0000"
+        }
+      } ]
+    }, {
+      "categoryId" : "TOOLS",
+      "categoryName" : "Tools, Patio & Garden",
+      "total" : 0,
+      "ads" : [ ]
+    }, {
+      "categoryId" : "HEALTH_BEAUTY_GROCERY",
+      "categoryName" : "Health, Beauty, & Grocery",
+      "total" : 11,
+      "ads" : [ {
+        "id" : "c40ae37b-cbcf-40d1-8e80-4e34111c1878",
+        "title" : "Maison A Vendre a Purdymouth",
+        "displayTitle" : "Maison A Vendre a P...",
+        "description" : "Maison A Vendre a Purdymouth\nSoluta excepturi accusantium totam. Qui a aliquid. Tenetur quia aut. Illum facere rerum et. Non autem at corrupti autem. Est necessitatibus quibusdam. Consequuntur et provident vel tempora vel voluptatem magni. Iste cupiditate qui laborum eum quia ut. Exercitationem accusantium nostrum accusantium fugit dolor aut. Dolor corrupti quia possimus unde. Voluptatem asperiores recusandae. Qui nihil fugiat tenetur sint qui. Et saepe voluptatum distinctio. Qui nesciunt libero odit vel aliquid. Suscipit rem non. Voluptatem reprehenderit labore suscipit magnam. Magni enim repellat adipisci vero sit voluptas.",
+        "cost" : 7.063973993134165E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "pexels-photo-164005.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "c40ae37b-cbcf-40d1-8e80-4e34111c1878-8",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:56:59.797+0000",
+          "publishedDate" : "2018-08-21T03:59:20.433+0000",
+          "expiryDate" : "2018-08-21T03:59:20.433+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.433+0000"
+        }
+      }, {
+        "id" : "4080619e-0f99-43af-ad6b-bc218fad4751",
+        "title" : "Maison A louer a New Joey",
+        "displayTitle" : "Maison A louer a Ne...",
+        "description" : "Maison A louer a New Joey\nTemporibus dolorum excepturi eum qui cupiditate dolor. Modi fugiat alias nulla rerum qui. Fugit dolores dolores ipsam. Explicabo tenetur animi vitae. Aut quam laborum aut quas eius. Est qui impedit nesciunt. Molestias ea quo consequatur enim. Quas alias quia. Sapiente omnis iusto eveniet consequatur quam repellat et. Vitae voluptas minus. Enim atque aut. Molestiae eligendi vero earum eius odit fugiat quo. Dolorum laborum non quis. Eum optio necessitatibus fugit quos ea. Soluta et at expedita deleniti ut. Nam sint ab voluptatem. Itaque ut neque aut qui aut quo.",
+        "cost" : 3.9972575679115206E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "pexels-photo-934673.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "4080619e-0f99-43af-ad6b-bc218fad4751-5",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:20.636+0000",
+          "publishedDate" : "2018-08-21T03:59:20.433+0000",
+          "expiryDate" : "2018-08-21T03:59:20.433+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.433+0000"
+        }
+      }, {
+        "id" : "462fab63-2a99-477c-8973-e873584abc9a",
+        "title" : "Maison A louer a New Jimmy",
+        "displayTitle" : "Maison A louer a Ne...",
+        "description" : "Maison A louer a New Jimmy\nEt aut qui corporis ratione voluptates. Optio nihil iusto et illum. Fuga nostrum sit et. Explicabo et a sit ab excepturi. Qui numquam eos modi odio doloribus excepturi dolorem. Eum possimus laboriosam exercitationem voluptatem quod. Assumenda accusantium in laboriosam occaecati vel. Est inventore eaque quasi quod sit numquam. Beatae et et ex doloremque voluptas. Ab quia facilis sit modi sint vel pariatur. Cumque fuga ut itaque porro reiciendis necessitatibus ut. Deserunt eligendi inventore distinctio voluptas architecto. Tenetur et voluptatem voluptatem magnam id cumque maiores. Consequatur excepturi minima. Voluptatem saepe id id et non minima delectus. Quo consequatur nostrum esse unde dolorem.",
+        "cost" : 3.5331665584722005E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "pexels-photo-214488.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "462fab63-2a99-477c-8973-e873584abc9a-5",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:24.788+0000",
+          "publishedDate" : "2018-08-21T03:59:20.434+0000",
+          "expiryDate" : "2018-08-21T03:59:20.434+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.434+0000"
+        }
+      }, {
+        "id" : "a392b397-af8a-4690-b412-5f8bdabefb6e",
+        "title" : "Maison A louer a East Eldridgemouth",
+        "displayTitle" : "Maison A louer a Ea...",
+        "description" : "Maison A louer a East Eldridgemouth\nSed quos qui voluptatem facilis et. Sit est eius voluptate. Molestiae sint eligendi et nihil. Molestiae est fugiat qui quidem repellat. Quod ut inventore distinctio optio dolorem non. Voluptatem neque dolor ipsam. Tempora sit ullam magni. Enim rerum veritatis deserunt deserunt aliquam. Est voluptas in vero et doloribus. Corporis voluptatem quia. Voluptatem veniam voluptates provident iusto. Quidem non porro. Ut minima debitis repudiandae atque. Aut earum et labore magnam omnis et harum. Temporibus ut deserunt nobis corrupti tenetur. Placeat modi sunt aut reiciendis. Sint sit aperiam necessitatibus.",
+        "cost" : 7.283623163396034E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "pexels-photo-256396.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "a392b397-af8a-4690-b412-5f8bdabefb6e-12",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:36.065+0000",
+          "publishedDate" : "2018-08-21T03:59:20.434+0000",
+          "expiryDate" : "2018-08-21T03:59:20.434+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.434+0000"
+        }
+      }, {
+        "id" : "814c3a8a-7361-4bef-969e-98b6ad6356d5",
+        "title" : "Maison A Vendre a Alexfort",
+        "displayTitle" : "Maison A Vendre a A...",
+        "description" : "Maison A Vendre a Alexfort\nQuas rerum nobis. At sint et consequatur officiis consectetur eos. Molestiae incidunt commodi. Qui et inventore ut dolore ut porro voluptatem. Voluptatem nesciunt magnam adipisci quia soluta magni. Consequuntur ratione vitae et ut repellendus fuga aut. Non animi sit. Voluptatem dolor perspiciatis maxime voluptatem voluptas eos omnis. Non exercitationem exercitationem. Totam quisquam et earum quia molestiae accusamus et. Mollitia sed omnis autem debitis consectetur. Temporibus laudantium ab ipsam est praesentium. Assumenda culpa beatae. Cum aliquam architecto ex voluptates fugit animi. Velit rerum velit quia voluptatem culpa nihil. Id ad ad sunt debitis repudiandae veritatis quam.",
+        "cost" : 8.490126013953567E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : true,
+        "media" : {
+          "originalFileName" : "mobile-phone-smartphone-tablet-white-40739.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "814c3a8a-7361-4bef-969e-98b6ad6356d5-2",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:35.061+0000",
+          "publishedDate" : "2018-08-21T03:59:20.435+0000",
+          "expiryDate" : "2018-08-21T03:59:20.435+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.435+0000"
+        }
+      }, {
+        "id" : "7049120c-1c50-459d-9b3a-492752072fe3",
+        "title" : "Maison A Vendre a Lake Felicitaview",
+        "displayTitle" : "Maison A Vendre a L...",
+        "description" : "Maison A Vendre a Lake Felicitaview\nConsequuntur quidem sequi est qui dolorem. Adipisci in qui voluptatibus enim est. Voluptates autem nihil dolor. Laudantium unde cupiditate rem autem. Corporis eos sapiente. Consequatur velit incidunt quibusdam eveniet quidem. Harum cumque ea fugit voluptatibus sit et et. Sed voluptatibus quisquam quia. Error non quo libero. Perspiciatis vero alias iste amet earum. Sint et officiis enim. Eaque saepe repellat vero molestias delectus. Quas quis quo dolorem dicta corrupti minima dolor. Dolore deserunt harum reiciendis et laborum dolor. Optio architecto earum cupiditate sed aut dignissimos.",
+        "cost" : 4.676806875042506E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : true,
+        "media" : {
+          "originalFileName" : "pexels-photo-323780.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "7049120c-1c50-459d-9b3a-492752072fe3-4",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:46.074+0000",
+          "publishedDate" : "2018-08-21T03:59:20.436+0000",
+          "expiryDate" : "2018-08-21T03:59:20.436+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.436+0000"
+        }
+      }, {
+        "id" : "10f0a30c-e6db-4610-ac42-aa57c816da1f",
+        "title" : "Maison A Vendre a South Dannyport",
+        "displayTitle" : "Maison A Vendre a S...",
+        "description" : "Maison A Vendre a South Dannyport\nEt et aliquam amet qui ut atque alias. Quam vel laboriosam officia labore repellat. Consequuntur necessitatibus doloribus nihil quam quo praesentium quia. Dolores et ad. Quia quae officiis et sed inventore porro. Libero assumenda tenetur asperiores est dicta voluptatum atque. Ratione ducimus temporibus. Minima nam quia soluta deserunt cumque molestias. Et similique beatae omnis saepe. Ab assumenda dolor. Neque beatae odit. Non aspernatur neque saepe molestias. Ex tenetur est qui veniam. Aperiam et impedit. Error eum itaque dolore sit. Eveniet quis et excepturi aliquid maxime.",
+        "cost" : 4.19786779037744E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "pexels-photo-597331.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "10f0a30c-e6db-4610-ac42-aa57c816da1f-5",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:53.185+0000",
+          "publishedDate" : "2018-08-21T03:59:20.436+0000",
+          "expiryDate" : "2018-08-21T03:59:20.436+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.436+0000"
+        }
+      }, {
+        "id" : "a8dfacd7-e457-4105-ac88-9a6ab63f43f8",
+        "title" : "Maison A louer a Hirthehaven",
+        "displayTitle" : "Maison A louer a Hi...",
+        "description" : "Maison A louer a Hirthehaven\nSimilique assumenda culpa dignissimos quaerat accusantium. Sed dolorum tenetur ut aut assumenda. Voluptatibus est corporis dolorem. Voluptatem sed eius veritatis asperiores laboriosam. Laudantium saepe asperiores quas unde numquam consequuntur. Tenetur porro dolorem modi culpa autem et. Consequatur ipsa harum. Sint voluptate reprehenderit expedita libero iste. Sed et laborum aut quis. Magni ipsa et. Vel aut repellat iste. Cumque reiciendis eum voluptates. Distinctio qui sed quis rerum nobis. Qui eum adipisci nesciunt culpa maiores ipsam sunt. Animi aspernatur est eaque quasi. Omnis magnam porro cupiditate totam non. Non nam illo suscipit vel iure minima quisquam.",
+        "cost" : 6.4865342491978295E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "pexels-photo-699122.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "a8dfacd7-e457-4105-ac88-9a6ab63f43f8-8",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:53.502+0000",
+          "publishedDate" : "2018-08-21T03:59:20.437+0000",
+          "expiryDate" : "2018-08-21T03:59:20.437+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.437+0000"
+        }
+      }, {
+        "id" : "b9633808-759e-4f2f-942e-49fca963cfcf",
+        "title" : "Maison A louer a Kaneberg",
+        "displayTitle" : "Maison A louer a Ka...",
+        "description" : "Maison A louer a Kaneberg\nNam recusandae ullam est voluptas dignissimos. Id est deserunt pariatur ut. Distinctio dolor non laboriosam maxime quia nobis. Dolor eaque labore eius aut voluptas itaque. Facere quae fugiat ut qui quasi qui necessitatibus. Non quisquam id fugiat ratione fugit accusantium. Est quis quis. Nemo qui vel occaecati ab molestiae. Provident delectus aut iure et. Est at quisquam et. Aspernatur voluptatem molestias eligendi sit et est eaque. Mollitia ut excepturi. Ipsa commodi voluptatem. Vel alias quis rem sequi sint et quia. Fugiat aperiam non. Praesentium sunt alias.",
+        "cost" : 7.440455417911129E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : true,
+        "media" : {
+          "originalFileName" : "pexels-photo-214488.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "b9633808-759e-4f2f-942e-49fca963cfcf-4",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:55.190+0000",
+          "publishedDate" : "2018-08-21T03:59:20.437+0000",
+          "expiryDate" : "2018-08-21T03:59:20.437+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.437+0000"
+        }
+      }, {
+        "id" : "2a15c83a-0215-4b84-b4c0-4d6f061fceb5",
+        "title" : "Maison A louer a North Isom",
+        "displayTitle" : "Maison A louer a No...",
+        "description" : "Maison A louer a North Isom\nHic sed numquam. Adipisci hic et animi non ipsam. Et impedit magnam. Voluptate inventore minima. Sint id non consectetur vero cumque et vel. Aut esse molestiae laudantium et non. Possimus et deserunt et modi et. Ea omnis animi occaecati voluptatem. Commodi temporibus ut. Illo libero voluptatem perferendis architecto sunt assumenda. Tenetur totam culpa. Magni ipsam incidunt consequatur labore. Voluptatem voluptatibus aut labore quod suscipit sit veritatis. Architecto accusamus labore quisquam. Iste cumque neque. Eum ea consequuntur praesentium necessitatibus quasi molestiae. Iure omnis molestiae velit omnis eius est vero.",
+        "cost" : 2.91456949853112E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : true,
+        "media" : {
+          "originalFileName" : "pexels-photo-170811.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "2a15c83a-0215-4b84-b4c0-4d6f061fceb5-8",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:58:19.009+0000",
+          "publishedDate" : "2018-08-21T03:59:20.437+0000",
+          "expiryDate" : "2018-08-21T03:59:20.437+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.437+0000"
+        }
+      }, {
+        "id" : "42fc448f-81e3-4f20-8819-68475483fe77",
+        "title" : "Maison A Vendre a Port Nasir",
+        "displayTitle" : "Maison A Vendre a P...",
+        "description" : "Maison A Vendre a Port Nasir\nQuibusdam eos voluptates. Facilis esse sit ut est. Velit enim ratione ut possimus alias et ullam. Tempore quia sunt omnis aliquid reprehenderit dignissimos. Quaerat sunt et sint. Incidunt quibusdam illo sint. Cupiditate enim doloremque fugit ea nam. Veritatis exercitationem voluptas. Aut consequatur soluta quis omnis quo. Quis et temporibus sunt cumque. Quaerat quo assumenda soluta qui aliquam. Ratione dicta rerum aut tempore consequatur maxime praesentium. Alias placeat consequatur et. Quia occaecati odio. Voluptatum velit a ut qui cumque. Quos recusandae adipisci facilis explicabo doloremque aspernatur autem.",
+        "cost" : 4.6574977329669066E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "pexels-photo-204611.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "42fc448f-81e3-4f20-8819-68475483fe77-7",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:58:16.197+0000",
+          "publishedDate" : "2018-08-21T03:59:20.438+0000",
+          "expiryDate" : "2018-08-21T03:59:20.438+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.438+0000"
+        }
+      } ]
+    }, {
+      "categoryId" : "TOYS_BABY",
+      "categoryName" : "Toys & Baby",
+      "total" : 7,
+      "ads" : [ {
+        "id" : "78e4544a-ad8f-4d6b-9e9f-3634ceb9e97e",
+        "title" : "Maison A louer a Jacobsonbury",
+        "displayTitle" : "Maison A louer a Ja...",
+        "description" : "Maison A louer a Jacobsonbury\nOdit ad repudiandae ea hic dolores. Reprehenderit nesciunt placeat et voluptatum distinctio aut sint. Deleniti quod ea excepturi ea quaerat placeat rem. Omnis et voluptates labore odit reprehenderit. Et et at ex assumenda unde ad. Vero possimus voluptates quis. Laborum dolores facere veritatis dolorum illo quia sapiente. Delectus rerum velit nihil dolore. Adipisci cum saepe est. Aut id quod beatae ullam natus placeat. Neque quo expedita qui qui quisquam tempora. Modi ut repellat commodi ea asperiores harum ullam. Illo corrupti voluptas blanditiis alias rem mollitia non. Officia et delectus nobis inventore provident. Assumenda accusantium doloribus. Excepturi occaecati sed consequuntur omnis odio dignissimos sequi. Velit architecto voluptatem ipsam dolor ipsam voluptatem quod.",
+        "cost" : 2.4487749103762444E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "pexels-photo-170811.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "78e4544a-ad8f-4d6b-9e9f-3634ceb9e97e-6",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:56:58.815+0000",
+          "publishedDate" : "2018-08-21T03:59:20.462+0000",
+          "expiryDate" : "2018-08-21T03:59:20.462+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.462+0000"
+        }
+      }, {
+        "id" : "8a64d21a-39c1-4a3e-a111-0e671f8cc94d",
+        "title" : "Maison A Vendre a Port Kevin",
+        "displayTitle" : "Maison A Vendre a P...",
+        "description" : "Maison A Vendre a Port Kevin\nCumque explicabo odio laborum nisi consequatur ipsa. Et debitis qui eum. Quis ad voluptate perferendis eaque dolorem qui adipisci. Dignissimos culpa consequatur accusantium molestias. Voluptatem nesciunt sequi sint eum. Veniam aut nemo ut enim ex perferendis totam. Debitis delectus sed pariatur recusandae voluptatem at quia. Necessitatibus suscipit dolorem. Quasi repellendus porro corporis qui possimus. Ut quia commodi amet. Sunt corrupti tempora consequatur incidunt consequuntur et. Quos incidunt totam sunt quisquam. Consequatur minus non hic dolores aut aspernatur maxime. Quibusdam aut occaecati esse veniam est iusto. Veniam sit delectus soluta. Repellat quasi quibusdam explicabo eligendi. Optio quaerat assumenda nesciunt similique quo ut.",
+        "cost" : 9.892749872340186E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : true,
+        "media" : {
+          "originalFileName" : "fashion-hat-straw-hat.jpg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "8a64d21a-39c1-4a3e-a111-0e671f8cc94d-7",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:17.774+0000",
+          "publishedDate" : "2018-08-21T03:59:20.463+0000",
+          "expiryDate" : "2018-08-21T03:59:20.463+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.463+0000"
+        }
+      }, {
+        "id" : "ff61cbfd-531d-433f-8eba-111ee24b535c",
+        "title" : "Maison A louer a East Siennaview",
+        "displayTitle" : "Maison A louer a Ea...",
+        "description" : "Maison A louer a East Siennaview\nRerum rerum fugit. Qui corrupti saepe iusto possimus. Exercitationem vero omnis corrupti consequuntur saepe quo. Perspiciatis incidunt vel laudantium. Ipsum est error quos fugit. Ratione autem cum. Perferendis maxime est facilis dignissimos numquam fugit. Pariatur quo quia mollitia cum mollitia. At eos illo. Quas consequuntur repellendus corporis. Numquam amet sequi optio necessitatibus soluta dolorum. Sed est quia consectetur officia nisi. Iusto aut minima. Nisi possimus non eius modi necessitatibus. Exercitationem quo veritatis vero aut. Similique minima aut dolore placeat pariatur. Aut sit est et minima sit officia.",
+        "cost" : 8.941271668343283E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "mobile-phone-samsung-music-39592.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "ff61cbfd-531d-433f-8eba-111ee24b535c-1",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:26.891+0000",
+          "publishedDate" : "2018-08-21T03:59:20.464+0000",
+          "expiryDate" : "2018-08-21T03:59:20.464+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.464+0000"
+        }
+      }, {
+        "id" : "c8134b5a-7d13-47d7-919c-f67a35a502fe",
+        "title" : "Maison A louer a Jaydonmouth",
+        "displayTitle" : "Maison A louer a Ja...",
+        "description" : "Maison A louer a Jaydonmouth\nMagnam minus dolores. Delectus accusantium rerum. Blanditiis soluta pariatur dolorem ut nisi. Aspernatur et omnis et. Et culpa voluptas voluptate libero ab. Eos dolorem velit. Nesciunt ea voluptatem autem harum corrupti distinctio. In eveniet et in. Consequuntur incidunt est consequatur maxime excepturi fuga consequatur. Non enim et itaque. Repudiandae autem ut sed dolorem enim minus labore. Numquam itaque tempore autem praesentium vero. Et quasi velit expedita incidunt eos. Est qui et. Aut molestias eaque. Qui nostrum incidunt doloremque quos ducimus nesciunt recusandae. Dolor quam aut.",
+        "cost" : 2.4385847252941564E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : true,
+        "media" : {
+          "originalFileName" : "pexels-photo-164005.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "c8134b5a-7d13-47d7-919c-f67a35a502fe-3",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:43.496+0000",
+          "publishedDate" : "2018-08-21T03:59:20.464+0000",
+          "expiryDate" : "2018-08-21T03:59:20.464+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.464+0000"
+        }
+      }, {
+        "id" : "25c2e20c-71ba-4b06-865d-58578dd431d1",
+        "title" : "Maison A Vendre a Edwinmouth",
+        "displayTitle" : "Maison A Vendre a E...",
+        "description" : "Maison A Vendre a Edwinmouth\nItaque consectetur maxime. Sed reprehenderit corrupti doloribus aut possimus. Dolor ratione excepturi aut in illo rerum. Omnis qui assumenda unde soluta ad similique. Enim inventore voluptatem sit dicta. Assumenda amet possimus vitae consequuntur. Ut ut accusantium animi quo sed. Blanditiis et et. Quos repellendus tempore quae. Enim consequuntur ipsum. Aut et aut. Qui placeat est. Quam non at. Autem sint accusamus illo quod veniam. Nihil incidunt et dignissimos sunt veniam. Possimus dolor est.",
+        "cost" : 7.881612960181023E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : true,
+        "media" : {
+          "originalFileName" : "pexels-photo-164005.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "25c2e20c-71ba-4b06-865d-58578dd431d1-8",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:51.491+0000",
+          "publishedDate" : "2018-08-21T03:59:20.465+0000",
+          "expiryDate" : "2018-08-21T03:59:20.465+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.465+0000"
+        }
+      }, {
+        "id" : "f2da1e50-3376-498c-82fa-cc57319903a3",
+        "title" : "Maison A louer a Jakaylahaven",
+        "displayTitle" : "Maison A louer a Ja...",
+        "description" : "Maison A louer a Jakaylahaven\nIn omnis eum repellendus. Enim quibusdam enim est nobis. Neque ducimus enim maxime et. Nobis deserunt consequatur nisi dolores odit. Omnis veniam debitis ducimus blanditiis eligendi porro eaque. Eligendi impedit et sequi labore consectetur vel. Ipsum adipisci modi nostrum magnam et eius. Ad corrupti quasi sit ad repellendus voluptatem atque. Qui deleniti dolorem nobis doloremque culpa et. Quidem iure laborum suscipit sapiente. Placeat consequuntur sit. Quos sint dolor necessitatibus qui perferendis. Porro sint consectetur veritatis tempora quia fugit. Minus sit expedita ratione occaecati. Earum nemo aliquam qui nihil veritatis temporibus. Labore nam doloremque qui ut.",
+        "cost" : 4.3683563324849054E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : true,
+        "media" : {
+          "originalFileName" : "pexels-photo-297933.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "f2da1e50-3376-498c-82fa-cc57319903a3-2",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:58:09.002+0000",
+          "publishedDate" : "2018-08-21T03:59:20.465+0000",
+          "expiryDate" : "2018-08-21T03:59:20.465+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.465+0000"
+        }
+      }, {
+        "id" : "598ad694-5162-4255-a422-16672db3700c",
+        "title" : "Maison A Vendre a New Annette",
+        "displayTitle" : "Maison A Vendre a N...",
+        "description" : "Maison A Vendre a New Annette\nNihil aut perferendis tenetur neque. Quia qui praesentium voluptatum. Molestiae possimus rerum sed sint et ut. Et enim ad magnam. Autem qui dolores dignissimos aut ut ut. Quo neque consequatur velit ut tempore ut. Iusto praesentium voluptatem. Nam iusto autem sint et ipsam et quia. Dolor sed modi. Vel nostrum possimus sed. Omnis consequatur quidem qui quibusdam neque voluptatem. Et impedit qui veniam et delectus et. Similique commodi non aut alias eveniet quod. Hic officia eum at. Ullam nesciunt maiores. Ut ipsa inventore quam et natus ut minus. Repellat consequatur ipsum maiores animi ut.",
+        "cost" : 1.3660335583146831E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "pexels-photo-164005.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "598ad694-5162-4255-a422-16672db3700c-4",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:58:17.281+0000",
+          "publishedDate" : "2018-08-21T03:59:20.465+0000",
+          "expiryDate" : "2018-08-21T03:59:20.465+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.465+0000"
+        }
+      } ]
+    }, {
+      "categoryId" : "CLOTHING_SHOES_JEWELRY",
+      "categoryName" : "Clothing, Shoes & Jewelry",
+      "total" : 11,
+      "ads" : [ {
+        "id" : "fa853652-7097-46c2-99b2-df5fcccffcdf",
+        "title" : "Maison A louer a Port Irmafurt",
+        "displayTitle" : "Maison A louer a Po...",
+        "description" : "Maison A louer a Port Irmafurt\nSed est iure. Blanditiis voluptas ex eligendi dolores ex autem. Voluptas error voluptatem consequatur. Asperiores eius debitis veniam et consectetur fugiat. Velit voluptatem eveniet id perferendis assumenda velit nulla. Quia hic voluptas. Suscipit impedit ab tenetur odio ad. Vero non deserunt quidem nihil voluptatem. Libero eligendi adipisci quam. Molestias beatae autem. Iusto consequatur eligendi eum illum. Reiciendis sit culpa nobis. Debitis rerum perspiciatis perspiciatis cupiditate minus deleniti natus. Praesentium illum nisi iure ut. Rerum ad possimus. Unde repudiandae id possimus rerum. Omnis libero ipsam.",
+        "cost" : 6.929918916142839E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : true,
+        "media" : {
+          "originalFileName" : "pexels-photo-934673.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "fa853652-7097-46c2-99b2-df5fcccffcdf-1",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:56:52.413+0000",
+          "publishedDate" : "2018-08-21T03:59:20.488+0000",
+          "expiryDate" : "2018-08-21T03:59:20.488+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.488+0000"
+        }
+      }, {
+        "id" : "921c8b91-1ee4-4d43-98a2-a4b28a9b7dc0",
+        "title" : "Maison A Vendre a Reubenton",
+        "displayTitle" : "Maison A Vendre a R...",
+        "description" : "Maison A Vendre a Reubenton\nTempora necessitatibus enim quam veniam. Eligendi ullam sunt assumenda voluptas. Hic voluptas maxime voluptas voluptas mollitia rem. Velit illo aut facilis dignissimos vitae quod dolor. Et et deleniti tempora cum exercitationem. Laborum sint aliquam. Voluptatem provident harum tempore ducimus sed nihil. Quaerat veniam minima hic dolorem nisi veniam. Officia officiis possimus eos ipsa placeat. Eum dolore accusantium harum error et. Voluptatem sit quas accusamus repellendus fugiat itaque aut. Sed rerum modi. Rem quia aliquid quis quia. Excepturi repellendus amet fugiat. Id reprehenderit eum nemo possimus atque quisquam harum. Repudiandae voluptatum totam dolores quia officiis non autem. Non explicabo iure et.",
+        "cost" : 7.502490629886542E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "mobile-phone-samsung-music-39592.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "921c8b91-1ee4-4d43-98a2-a4b28a9b7dc0-6",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:12.933+0000",
+          "publishedDate" : "2018-08-21T03:59:20.490+0000",
+          "expiryDate" : "2018-08-21T03:59:20.490+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.490+0000"
+        }
+      }, {
+        "id" : "9592da70-2515-4e89-a1a2-8baf7118e0ed",
+        "title" : "Maison A Vendre a Michealtown",
+        "displayTitle" : "Maison A Vendre a M...",
+        "description" : "Maison A Vendre a Michealtown\nEst ut dolorum veniam optio aliquid et. Et voluptates ea dolorum. Pariatur ipsum fugiat. Reiciendis consequatur eos. Laudantium quaerat aspernatur qui. Illo cum et dolorem. Mollitia ut repudiandae ut voluptatibus animi ipsa. Dolore dolorum magnam non. Natus ipsa eligendi nam officiis molestiae sint. Repellendus dolor eum ut expedita. Debitis quod dignissimos dignissimos. Tempora nihil odio. Autem fugit sunt blanditiis sit. Officiis fuga optio. Sed alias officiis qui quae voluptatem. Non expedita suscipit qui sunt.",
+        "cost" : 2.7090359259338118E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "pexels-photo-214488.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "9592da70-2515-4e89-a1a2-8baf7118e0ed-4",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:22.138+0000",
+          "publishedDate" : "2018-08-21T03:59:20.491+0000",
+          "expiryDate" : "2018-08-21T03:59:20.491+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.491+0000"
+        }
+      }, {
+        "id" : "b52dc6a2-8715-4d59-8fe8-e0fea7daf749",
+        "title" : "Maison A louer a South Carli",
+        "displayTitle" : "Maison A louer a So...",
+        "description" : "Maison A louer a South Carli\nPossimus provident consequatur. Eos autem occaecati voluptatum perferendis. Quidem et enim magnam. Est quod numquam deleniti eveniet quibusdam vitae doloribus. Hic omnis ipsam aperiam a culpa rerum atque. Et qui vel quia ullam laboriosam rerum. Voluptas et fuga nihil expedita ut omnis repudiandae. Nesciunt hic itaque sunt sapiente exercitationem sit a. Est dolorum rerum perferendis. Recusandae sed voluptatibus provident ipsam consequatur sint. Nihil et dolores. Aut laborum est quis consequuntur autem. Qui et quis. Illum ut perferendis ipsa. Maxime et neque voluptatum ea earum.",
+        "cost" : 1.5857041613038648E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "pexels-photo-164005.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "b52dc6a2-8715-4d59-8fe8-e0fea7daf749-10",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:27.240+0000",
+          "publishedDate" : "2018-08-21T03:59:20.491+0000",
+          "expiryDate" : "2018-08-21T03:59:20.491+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.491+0000"
+        }
+      }, {
+        "id" : "549cf615-5d05-4fbf-be64-1ed2fe58f1d8",
+        "title" : "Maison A louer a East Leda",
+        "displayTitle" : "Maison A louer a Ea...",
+        "description" : "Maison A louer a East Leda\nRepudiandae quam temporibus quo voluptas qui nihil. Quasi deleniti in sapiente et impedit. Voluptas voluptatem magnam quo quasi sapiente soluta. Quae eos saepe dignissimos id labore quae non. Cum ut aperiam aspernatur temporibus est nesciunt. Debitis reprehenderit voluptatibus sunt mollitia omnis eligendi saepe. Laborum quae deserunt sunt architecto labore laboriosam debitis. Sit delectus eos quas accusantium reprehenderit iure. Esse perferendis ut. Id rerum esse eius. Beatae sit molestiae voluptatem omnis ut tempore aspernatur. Sed adipisci excepturi. Vel repellendus consequatur at voluptatem minus. Asperiores quia ut impedit necessitatibus quis. Possimus at aut aut eaque voluptatem.",
+        "cost" : 9.214172971978475E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "pexels-photo-323780.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "549cf615-5d05-4fbf-be64-1ed2fe58f1d8-4",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:31.681+0000",
+          "publishedDate" : "2018-08-21T03:59:20.492+0000",
+          "expiryDate" : "2018-08-21T03:59:20.492+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.492+0000"
+        }
+      }, {
+        "id" : "07ea1556-057c-4724-8fcc-68e997c1e6b7",
+        "title" : "Maison A louer a Feilton",
+        "displayTitle" : "Maison A louer a Fe...",
+        "description" : "Maison A louer a Feilton\nUt qui in est aliquam dolores est est. Modi illo ea. Voluptatem reiciendis quo id ab. Ab laudantium ad non ut est enim. Quam deserunt repellendus dolor. Qui iste et. Voluptatem dolores et impedit. Est dolorem sint eius molestiae suscipit. Dolorem ad minima blanditiis enim aspernatur maxime voluptas. Nesciunt provident officiis qui rerum. Dolorum est est totam quos. Sunt quam quia corrupti quibusdam. Aut quas rerum. Officia quo consectetur magnam doloribus et deserunt est. Iure nihil inventore magnam ut nihil. Quia non mollitia consequatur molestias reiciendis.",
+        "cost" : 4.821014005946774E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "pexels-photo-297933.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "07ea1556-057c-4724-8fcc-68e997c1e6b7-1",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:34.786+0000",
+          "publishedDate" : "2018-08-21T03:59:20.492+0000",
+          "expiryDate" : "2018-08-21T03:59:20.492+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.492+0000"
+        }
+      }, {
+        "id" : "5fa62f46-dc60-4ece-9707-8c8aa24daffe",
+        "title" : "Maison A louer a McLaughlinburgh",
+        "displayTitle" : "Maison A louer a Mc...",
+        "description" : "Maison A louer a McLaughlinburgh\nEius perspiciatis et nostrum odio dolorem sunt. Repudiandae voluptas exercitationem ex similique. Aut ipsum dignissimos tempore quaerat facere non. Qui est adipisci itaque quam consequuntur. Pariatur non est quia. Sunt quo iste. Veniam et aut velit at provident qui. Nisi et voluptates aut est quibusdam ut fugit. Voluptas deserunt dignissimos quaerat. Nesciunt molestiae eius provident est molestiae. Eum distinctio quod est ipsam sed atque sapiente. Molestiae non excepturi harum aperiam. Amet aliquid iste cum eveniet voluptatibus. Delectus nemo sint qui sequi quaerat est et. Sequi iure est facilis omnis autem autem in. Laboriosam nobis quam voluptas nesciunt vitae. Aperiam voluptatem facere qui quis distinctio et.",
+        "cost" : 3.280781282840501E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "pexels-photo-106399.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "5fa62f46-dc60-4ece-9707-8c8aa24daffe-5",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:37.028+0000",
+          "publishedDate" : "2018-08-21T03:59:20.493+0000",
+          "expiryDate" : "2018-08-21T03:59:20.493+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.493+0000"
+        }
+      }, {
+        "id" : "da52955a-e387-4693-b831-7377985221e1",
+        "title" : "Maison A louer a Randallborough",
+        "displayTitle" : "Maison A louer a Ra...",
+        "description" : "Maison A louer a Randallborough\nRerum aliquid laborum quidem tenetur. Maiores deserunt delectus quo et sapiente modi sed. Deserunt ut et dolore. Nesciunt provident voluptates esse. Quasi quas eveniet autem ipsam vero doloremque beatae. Et nostrum quo totam repellendus. Officia ut aspernatur magni vero. Corrupti quas fugiat non odio quis aut iste. Quos voluptatum similique est. Et natus optio. Explicabo qui et ea est. Et quod sequi aliquid est non quibusdam. Iure veniam et at dolore eum iure. Eveniet in molestiae. Illo voluptatibus consequuntur. Numquam aut ratione accusamus aut ex.",
+        "cost" : 6.608100897615083E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "pexels-photo-170811.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "da52955a-e387-4693-b831-7377985221e1-7",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:58:03.398+0000",
+          "publishedDate" : "2018-08-21T03:59:20.493+0000",
+          "expiryDate" : "2018-08-21T03:59:20.493+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.493+0000"
+        }
+      }, {
+        "id" : "e5fc9d1c-a4d2-4d3c-8c1d-c11b37ad373e",
+        "title" : "Maison A Vendre a North Jacques",
+        "displayTitle" : "Maison A Vendre a N...",
+        "description" : "Maison A Vendre a North Jacques\nOmnis et perferendis voluptas aliquam ipsum nam. Est aut aliquid et quo ex pariatur. Ea quaerat voluptas rerum laborum voluptate. Magnam consequuntur eum labore. Quia dolorem dolor. Et error quia aliquid eos ducimus omnis. Rerum optio consequatur. Sed non quis sunt non a. Ut eaque labore. Quia error ducimus consequatur earum delectus necessitatibus. Cumque provident odio dignissimos consequatur. Porro pariatur necessitatibus ad. Ea animi perspiciatis aliquam aperiam porro ut iure. Voluptas quod voluptas a eveniet. Numquam a est ipsum nemo. Necessitatibus quisquam laborum in ducimus.",
+        "cost" : 5.432860318954231E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : true,
+        "media" : {
+          "originalFileName" : "pexels-photo-256396.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "e5fc9d1c-a4d2-4d3c-8c1d-c11b37ad373e-3",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:58:14.526+0000",
+          "publishedDate" : "2018-08-21T03:59:20.493+0000",
+          "expiryDate" : "2018-08-21T03:59:20.493+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.493+0000"
+        }
+      }, {
+        "id" : "bd7e15c2-743b-464d-a56b-89751618b370",
+        "title" : "Maison A Vendre a East Aracelyshire",
+        "displayTitle" : "Maison A Vendre a E...",
+        "description" : "Maison A Vendre a East Aracelyshire\nDolores vel officia est. Sint rem porro et rem et. Qui vel et quisquam ex iste magnam id. Aliquam facere veniam. Aliquam quidem voluptas quia nesciunt maxime voluptas. Dignissimos nihil fugit excepturi quis voluptates voluptas omnis. Aut ipsa rerum temporibus ipsa quam. Unde quae amet quia sed sint velit rerum. Cum necessitatibus voluptatem quibusdam iste. Molestias itaque saepe hic id. Non reiciendis libero officia quia quibusdam quisquam repudiandae. Ducimus culpa quod praesentium sed in eveniet odio. Dicta et laborum quibusdam eaque et. Et ut sit eveniet rerum. Non nisi possimus harum hic voluptate.",
+        "cost" : 4.617002344763403E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : true,
+        "media" : {
+          "originalFileName" : "pexels-photo-323780.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "bd7e15c2-743b-464d-a56b-89751618b370-1",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:58:21.123+0000",
+          "publishedDate" : "2018-08-21T03:59:20.494+0000",
+          "expiryDate" : "2018-08-21T03:59:20.494+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.494+0000"
+        }
+      }, {
+        "id" : "a8090faf-8fe3-423e-b1d9-ce3fb202fad2",
+        "title" : "Maison A Vendre a Dorothytown",
+        "displayTitle" : "Maison A Vendre a D...",
+        "description" : "Maison A Vendre a Dorothytown\nEst laudantium quod. Iusto perferendis est. Tempora porro sed placeat repellendus similique sed. Voluptatem sapiente aut. Sit sunt et et. Voluptatibus molestiae veritatis veritatis quia. Voluptatum nam assumenda autem qui dolor dolor dolores. Est cumque quam rem ratione. Dolor sit placeat ratione laborum et dolorum. Quibusdam fugit ea deserunt sed magni deleniti et. Similique et illo quod iure et et. Velit nihil nostrum dolores molestiae excepturi in quam. Quasi animi eos rerum adipisci. Debitis beatae officia ad ut quia sed. Nulla asperiores nam tempora quod. Autem magni minus mollitia sit dolore. Ducimus et mollitia sunt eveniet nostrum rerum.",
+        "cost" : 1.3759952243144391E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : true,
+        "media" : {
+          "originalFileName" : "pexels-photo-323780.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "a8090faf-8fe3-423e-b1d9-ce3fb202fad2-2",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:58:23.269+0000",
+          "publishedDate" : "2018-08-21T03:59:20.494+0000",
+          "expiryDate" : "2018-08-21T03:59:20.494+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.494+0000"
+        }
+      } ]
+    }, {
+      "categoryId" : "HANDMADE",
+      "categoryName" : "Handmade",
+      "total" : 10,
+      "ads" : [ {
+        "id" : "4f89abc0-e4dd-410b-8978-b651762dd6db",
+        "title" : "Maison A Vendre a Hilllberg",
+        "displayTitle" : "Maison A Vendre a H...",
+        "description" : "Maison A Vendre a Hilllberg\nNon molestiae voluptatem. Officia quisquam enim similique ratione. Facilis necessitatibus eius ut et velit. Et sunt qui aut et quidem. Deleniti nesciunt veritatis. Est culpa autem perspiciatis sint dolores vel laboriosam. Velit sit saepe porro inventore velit. Quia dolorem delectus. Ut et ea deleniti voluptatum quia. Consequatur qui iste voluptatem. Nemo animi quae consequatur doloremque ad ad. Praesentium laboriosam possimus laboriosam. Commodi aut praesentium. Dolorem sed ducimus. Laudantium aut autem ut eos esse mollitia fugit. Laudantium debitis nostrum assumenda quasi. Rerum officia dolor sint rerum sequi a odit.",
+        "cost" : 1.6542367438012477E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "pexels-photo-1152077.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "4f89abc0-e4dd-410b-8978-b651762dd6db-7",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:26.404+0000",
+          "publishedDate" : "2018-08-21T03:59:20.533+0000",
+          "expiryDate" : "2018-08-21T03:59:20.533+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.533+0000"
+        }
+      }, {
+        "id" : "17f92b83-38b0-4e5e-ad56-5b74c43f34c9",
+        "title" : "Maison A Vendre a West Jazlynland",
+        "displayTitle" : "Maison A Vendre a W...",
+        "description" : "Maison A Vendre a West Jazlynland\nDeleniti et sunt ut unde assumenda praesentium nisi. Ipsum culpa nobis eveniet minus atque. Suscipit recusandae aspernatur labore voluptatum. Et et voluptatem. Est fuga ducimus recusandae est. Voluptate perferendis dolor consequatur labore. Consequatur modi natus exercitationem hic velit. Atque cum repellat dolores. Voluptatum qui quas sequi. Amet ratione eos deserunt unde itaque. Officiis iusto quo natus vero deleniti ex. Soluta ab iure in quia. Occaecati quisquam dolore et minima qui debitis corporis. Corporis vero et numquam perspiciatis. Earum repudiandae velit ea praesentium ut corporis numquam. Sint sunt ullam. Voluptatem et sint vel aspernatur quis modi molestias.",
+        "cost" : 3.1473234294285897E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : true,
+        "media" : {
+          "originalFileName" : "pexels-photo-297933.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "17f92b83-38b0-4e5e-ad56-5b74c43f34c9-5",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:30.443+0000",
+          "publishedDate" : "2018-08-21T03:59:20.534+0000",
+          "expiryDate" : "2018-08-21T03:59:20.534+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.534+0000"
+        }
+      }, {
+        "id" : "28c77961-5eb9-4057-8c56-75952ef0c391",
+        "title" : "Maison A louer a Kreigerbury",
+        "displayTitle" : "Maison A louer a Kr...",
+        "description" : "Maison A louer a Kreigerbury\nSunt itaque cumque voluptas optio. Eos saepe quae amet qui porro rerum iusto. Expedita suscipit voluptates. Aut fuga sit placeat saepe labore. Saepe sed tempore quibusdam est illo. Quia iusto et. Laudantium unde vel dolores saepe. Quis pariatur voluptatum nam. Non et voluptate. Debitis facilis saepe praesentium recusandae voluptatibus autem. Corrupti sequi impedit in. Et voluptatem et omnis. Recusandae quaerat voluptas debitis et minus illum. Et magnam iure et consectetur ut magnam nemo. Est est aspernatur et nesciunt eligendi qui ea.",
+        "cost" : 8055419.22476799,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "pexels-photo-253096.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "28c77961-5eb9-4057-8c56-75952ef0c391-1",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:42.384+0000",
+          "publishedDate" : "2018-08-21T03:59:20.534+0000",
+          "expiryDate" : "2018-08-21T03:59:20.534+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.534+0000"
+        }
+      }, {
+        "id" : "fda1259f-f720-4f4b-a072-8a93ac0529f6",
+        "title" : "Maison A Vendre a Gloverton",
+        "displayTitle" : "Maison A Vendre a G...",
+        "description" : "Maison A Vendre a Gloverton\nVoluptas autem harum ad nam voluptatem voluptates. Et laborum exercitationem deserunt odio voluptas eligendi recusandae. Omnis nesciunt at consequatur dicta ipsum rem. Totam consequatur aut eaque molestiae sit quo cumque. Aut inventore ratione. Dolores molestiae voluptatem quaerat harum explicabo alias laboriosam. Natus repudiandae minima quidem porro ex qui quo. Esse officia quas blanditiis illum. Nisi maxime numquam dolore libero. In quisquam quae eveniet. Dolor et accusamus unde rerum aut voluptatum necessitatibus. Quisquam quas ad dolorem sapiente omnis accusantium qui. Reprehenderit quis ut qui libero porro. Exercitationem earum alias veniam illo. Odio omnis atque.",
+        "cost" : 1.259799633663921E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "pexels-photo-256396.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "fda1259f-f720-4f4b-a072-8a93ac0529f6-4",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:45.450+0000",
+          "publishedDate" : "2018-08-21T03:59:20.535+0000",
+          "expiryDate" : "2018-08-21T03:59:20.535+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.535+0000"
+        }
+      }, {
+        "id" : "1ef04037-556a-4594-8ed8-b3626c755774",
+        "title" : "Maison A louer a East Rocky",
+        "displayTitle" : "Maison A louer a Ea...",
+        "description" : "Maison A louer a East Rocky\nDolores enim non illum vel et dignissimos esse. Ratione cupiditate sed sit et commodi veritatis. Similique fuga natus. Distinctio suscipit non qui praesentium nam molestias. Illo libero dolorem omnis odio incidunt. Veniam quia sunt est laudantium soluta ratione. Repudiandae eveniet sed. Sit doloremque mollitia omnis tempora quia. In ad voluptatem aspernatur modi cum molestias delectus. Temporibus qui perferendis quia culpa. Placeat sequi rerum. Omnis officiis qui et dicta. Sint laudantium officia. Tempora dolorum occaecati veniam maiores. Molestiae dolorum blanditiis quaerat sit quaerat. Ex dolorem distinctio maxime in.",
+        "cost" : 1.2272432108814143E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : true,
+        "media" : {
+          "originalFileName" : "pexels-photo-934673.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "1ef04037-556a-4594-8ed8-b3626c755774-7",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:58:00.500+0000",
+          "publishedDate" : "2018-08-21T03:59:20.535+0000",
+          "expiryDate" : "2018-08-21T03:59:20.535+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.535+0000"
+        }
+      }, {
+        "id" : "5ee566e6-8178-4c20-b246-a565839ba415",
+        "title" : "Maison A louer a Lake Christopherside",
+        "displayTitle" : "Maison A louer a La...",
+        "description" : "Maison A louer a Lake Christopherside\nEveniet sint officiis accusantium id explicabo in asperiores. Autem repellendus et et. Atque ea laboriosam rem qui magnam quis error. Et voluptatem eos adipisci beatae architecto. Expedita porro quis. Odit sed optio ut maxime ex nihil sed. Ipsam libero veniam saepe aperiam consequatur explicabo ipsam. Vitae suscipit debitis quas ipsam velit molestias consequatur. Qui eaque voluptates necessitatibus quaerat placeat magni commodi. Numquam aut animi quis perspiciatis maiores rerum. Distinctio deleniti eos qui amet consequatur eveniet. Delectus perspiciatis quae corporis. Quas aut dolorem at. Doloremque animi tempore rerum aut qui maiores. Quae voluptas voluptatem sapiente maiores ut eaque. Nemo fugiat minus sunt sed. Architecto repellendus dolore.",
+        "cost" : 9.265792988959587E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : true,
+        "media" : {
+          "originalFileName" : "pexels-photo-597331.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "5ee566e6-8178-4c20-b246-a565839ba415-9",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:58:04.899+0000",
+          "publishedDate" : "2018-08-21T03:59:20.536+0000",
+          "expiryDate" : "2018-08-21T03:59:20.536+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.536+0000"
+        }
+      }, {
+        "id" : "6f42c601-4a5f-4eb3-971b-2294e76c54fe",
+        "title" : "Maison A Vendre a Fritzton",
+        "displayTitle" : "Maison A Vendre a F...",
+        "description" : "Maison A Vendre a Fritzton\nLaboriosam consectetur aperiam. Quo ad commodi corporis voluptas minus. Aut dolorem repellat excepturi rerum quas eveniet ipsa. Est sint eligendi sed. Dolorem nihil sapiente. Dolor nihil omnis vel ut. Sunt voluptates delectus aut vel ullam vel. Aut amet ratione atque. Nostrum et et beatae. Ut voluptate exercitationem perspiciatis consequatur ex ea cumque. Laborum rerum id et omnis. Deserunt totam et adipisci expedita. Et ut aperiam qui minima. Delectus iusto incidunt illum. Dignissimos cum nesciunt voluptas et accusamus iste.",
+        "cost" : 5.913328632055953E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : true,
+        "media" : {
+          "originalFileName" : "pexels-photo-699122.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "6f42c601-4a5f-4eb3-971b-2294e76c54fe-9",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:58:04.124+0000",
+          "publishedDate" : "2018-08-21T03:59:20.536+0000",
+          "expiryDate" : "2018-08-21T03:59:20.536+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.536+0000"
+        }
+      }, {
+        "id" : "a1cfa969-3bc0-454f-a7eb-6a6b11b460b3",
+        "title" : "Maison A louer a North Brigitte",
+        "displayTitle" : "Maison A louer a No...",
+        "description" : "Maison A louer a North Brigitte\nError facilis sit cum dolores enim. Excepturi voluptas vitae ipsum in deserunt omnis provident. Enim accusantium maiores odio rerum. Consequatur et ut harum eos. Ut optio quod. Aspernatur sit facere ut similique. Eius dolorum ipsa voluptatem ut ex. Repudiandae maiores ipsum temporibus dignissimos. Neque voluptatum eaque voluptas enim quidem ipsam. Provident quod mollitia ipsam. Explicabo doloremque non consequatur dolor adipisci est. Fuga explicabo nihil ut harum nemo a. Quas deleniti tenetur enim sit qui quia. Voluptatem enim voluptas et excepturi quaerat sequi. Est enim voluptates ut iste.",
+        "cost" : 9.63644894782224E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "pexels-photo-253096.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "a1cfa969-3bc0-454f-a7eb-6a6b11b460b3-11",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:58:12.880+0000",
+          "publishedDate" : "2018-08-21T03:59:20.537+0000",
+          "expiryDate" : "2018-08-21T03:59:20.537+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.537+0000"
+        }
+      }, {
+        "id" : "70b96809-a2e6-48d0-ba3f-fa76e1411d35",
+        "title" : "Maison A Vendre a Brycemouth",
+        "displayTitle" : "Maison A Vendre a B...",
+        "description" : "Maison A Vendre a Brycemouth\nOfficia voluptas officia vero dolorem minus. Natus maiores sint consequatur quia autem. Qui eos corrupti quo qui incidunt perspiciatis totam. Molestiae ut vitae. Fugiat id harum inventore fuga ea dolorum aut. Et dolorum et. Voluptas autem quaerat neque nobis rerum. Et est sunt dolorem eaque reprehenderit. Necessitatibus adipisci voluptates est sit aut quibusdam. Neque dolores iusto atque eos non quaerat ducimus. Iure itaque et animi tempora fugit aut. Suscipit non corrupti ipsam nobis magnam omnis dolorum. Qui modi quia sequi esse quae cum. Eum quo repellendus eveniet qui non ducimus. Magni placeat eos ad at sint repudiandae.",
+        "cost" : 8629587.090982718,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "pexels-photo-297933.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "70b96809-a2e6-48d0-ba3f-fa76e1411d35-12",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:58:18.580+0000",
+          "publishedDate" : "2018-08-21T03:59:20.537+0000",
+          "expiryDate" : "2018-08-21T03:59:20.537+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.537+0000"
+        }
+      }, {
+        "id" : "188b2e2d-9de3-4451-b689-7502fe3572ca",
+        "title" : "Maison A Vendre a New Vance",
+        "displayTitle" : "Maison A Vendre a N...",
+        "description" : "Maison A Vendre a New Vance\nQuod quisquam id totam. Quo assumenda maiores et natus corrupti. Non quis rerum earum necessitatibus quae corporis. Est sit libero at et expedita exercitationem sit. Quis omnis ex totam aut et voluptate. Tenetur ea eius porro fuga excepturi dolore et. Voluptatum earum impedit. Sequi impedit aliquid et expedita qui assumenda. Aut excepturi est harum sed. Nam amet fugit distinctio minima vel illo. Qui omnis expedita asperiores dignissimos qui. Sed dicta cum minima sunt dolor. Amet eaque et illo libero laborum omnis. Nulla minus tempore sed eaque hic. Deserunt incidunt nobis voluptas et.",
+        "cost" : 3.481335833588843E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "pexels-photo-699122.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "188b2e2d-9de3-4451-b689-7502fe3572ca-7",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:58:16.554+0000",
+          "publishedDate" : "2018-08-21T03:59:20.538+0000",
+          "expiryDate" : "2018-08-21T03:59:20.538+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.538+0000"
+        }
+      } ]
+    }, {
+      "categoryId" : "SPORTS",
+      "categoryName" : "Sports",
+      "total" : 10,
+      "ads" : [ {
+        "id" : "792fec0c-3ae3-485f-b2d9-31d753334d16",
+        "title" : "Maison A louer a West Izaiahtown",
+        "displayTitle" : "Maison A louer a We...",
+        "description" : "Maison A louer a West Izaiahtown\nExcepturi quia tenetur mollitia error autem. Voluptatem id laudantium explicabo blanditiis autem cum. Enim magni nisi magni et modi culpa aliquam. Necessitatibus atque sed sit provident consequuntur. Quasi illum consequatur et et doloremque. In officiis dolor molestiae. Molestiae nostrum sed ex ullam. Quas alias ut illum quia. Esse iure ex a non repellat. Ut eligendi consequatur praesentium consequatur dignissimos at aliquam. Quae et itaque ut aut. Facere ea debitis consequatur. Quia exercitationem dicta quidem officia est quia. Commodi et ea eum tempora. Maxime aspernatur sit quos. Voluptatem soluta commodi et enim nemo labore error.",
+        "cost" : 9.835607466970691E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : true,
+        "media" : {
+          "originalFileName" : "pexels-photo-214488.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "792fec0c-3ae3-485f-b2d9-31d753334d16-2",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:12.122+0000",
+          "publishedDate" : "2018-08-21T03:59:20.565+0000",
+          "expiryDate" : "2018-08-21T03:59:20.565+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.565+0000"
+        }
+      }, {
+        "id" : "6c8876e3-8430-4695-a2e6-8e4319eddf63",
+        "title" : "Maison A louer a West Lysanne",
+        "displayTitle" : "Maison A louer a We...",
+        "description" : "Maison A louer a West Lysanne\nConsequatur velit perspiciatis. Totam totam sapiente. Unde sunt aut velit labore laborum dolores unde. Provident quia ullam. Illo ipsa earum dolorem. Quis temporibus animi. Voluptates modi voluptatibus adipisci et. Ut aspernatur quam. Ut nulla rerum sit. Praesentium similique asperiores accusantium quo corrupti quidem. Labore eius unde minus atque minus laboriosam. Aliquam a consequatur temporibus repellat. Voluptates repellat repudiandae voluptatem excepturi sit aut qui. Aspernatur ducimus autem necessitatibus mollitia at voluptas. Quis velit sapiente vitae maiores neque.",
+        "cost" : 4.128584070660998E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "mobile-phone-samsung-music-39592.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "6c8876e3-8430-4695-a2e6-8e4319eddf63-5",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:24.440+0000",
+          "publishedDate" : "2018-08-21T03:59:20.566+0000",
+          "expiryDate" : "2018-08-21T03:59:20.566+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.566+0000"
+        }
+      }, {
+        "id" : "74203fd9-7e80-4b81-9ab9-0bdfd3aa24c6",
+        "title" : "Maison A louer a Ardellaport",
+        "displayTitle" : "Maison A louer a Ar...",
+        "description" : "Maison A louer a Ardellaport\nImpedit autem maxime necessitatibus. Est ab dolor. Voluptas corrupti temporibus. Tempore dignissimos sint. Aut assumenda temporibus. Omnis est cum sed qui voluptas. Quia beatae nobis incidunt ducimus unde libero. Nihil illum fugiat explicabo neque sapiente dolor accusamus. Eum possimus provident esse dolorem hic. Assumenda veritatis molestiae. Perferendis ipsa sint amet et optio. Qui libero aliquid non repellat ipsa error esse. Culpa et iusto dolores sunt qui maxime. Consequuntur eveniet odit consectetur fugiat. Sed iusto et.",
+        "cost" : 6572292.006316783,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : true,
+        "media" : {
+          "originalFileName" : "mobile-phone-samsung-music-39592.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "74203fd9-7e80-4b81-9ab9-0bdfd3aa24c6-11",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:29.101+0000",
+          "publishedDate" : "2018-08-21T03:59:20.566+0000",
+          "expiryDate" : "2018-08-21T03:59:20.566+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.566+0000"
+        }
+      }, {
+        "id" : "cd6f5602-01f4-4636-a06f-d812aa564c7e",
+        "title" : "Maison A Vendre a Lake Jessika",
+        "displayTitle" : "Maison A Vendre a L...",
+        "description" : "Maison A Vendre a Lake Jessika\nDignissimos commodi aliquid rem. Placeat ipsa rerum corporis minus modi qui ipsa. Aut minima ad. Exercitationem reiciendis porro et natus laborum. Et fugiat quidem repellendus perspiciatis nulla ut debitis. Assumenda itaque repellendus magni aliquam ut vel. Numquam minus est qui excepturi. Eveniet quam quia nihil laudantium. Architecto minus dolor nisi. Optio sit quod velit. Illum fugit id dolores alias asperiores animi eum. Et aut quas consectetur praesentium voluptates nesciunt. Ut explicabo et. Aut adipisci et maiores et eaque repudiandae voluptatibus. Ut quod quam perferendis et. Ex nihil quae qui qui. Occaecati rerum tempora occaecati.",
+        "cost" : 3.43247745160739E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : true,
+        "media" : {
+          "originalFileName" : "pexels-photo-190819.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "cd6f5602-01f4-4636-a06f-d812aa564c7e-8",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:28.731+0000",
+          "publishedDate" : "2018-08-21T03:59:20.567+0000",
+          "expiryDate" : "2018-08-21T03:59:20.567+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.567+0000"
+        }
+      }, {
+        "id" : "498c7ae7-3fdc-4a1e-9323-da268c853ead",
+        "title" : "Maison A louer a Wardfurt",
+        "displayTitle" : "Maison A louer a Wa...",
+        "description" : "Maison A louer a Wardfurt\nPerspiciatis enim impedit quae corporis. Quasi non in ratione blanditiis ducimus. Quidem quod ipsum omnis quibusdam tempore. Excepturi ratione est expedita porro velit rerum. Iste eaque rerum exercitationem nostrum inventore ipsum est. Quo aut eius. Ab autem incidunt repellendus. Aut tempore temporibus corrupti voluptatem id aut libero. Qui perferendis aut. Maxime eos nemo voluptatem quo dicta. Expedita expedita a vel culpa ut ea. Voluptas quam iusto praesentium facilis a cum rerum. Molestiae et quisquam quidem. Tempora corporis dolorem qui laudantium. Tempora odit in explicabo et.",
+        "cost" : 8.934934051893179E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "pexels-photo-597331.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "498c7ae7-3fdc-4a1e-9323-da268c853ead-2",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:29.917+0000",
+          "publishedDate" : "2018-08-21T03:59:20.567+0000",
+          "expiryDate" : "2018-08-21T03:59:20.567+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.567+0000"
+        }
+      }, {
+        "id" : "95e979be-481d-4150-a6f9-e65bb5586b42",
+        "title" : "Maison A Vendre a McDermottchester",
+        "displayTitle" : "Maison A Vendre a M...",
+        "description" : "Maison A Vendre a McDermottchester\nQui dolor aut. Quo ullam voluptatem. In aut assumenda ut perferendis. Facere voluptatum quia. Ea et ut maiores. Consequatur labore accusantium. Adipisci explicabo enim iste reiciendis voluptas dolorem officiis. Incidunt deleniti unde magni voluptatem. Et rerum labore enim et neque. Est doloribus doloremque velit. Necessitatibus deleniti repellat ut accusantium. Expedita vero aliquid. Placeat minus est doloribus aperiam dicta ut qui. Magni velit laborum provident commodi doloremque voluptatum libero. Ut possimus eveniet. Ad ex beatae debitis. Non qui et aliquam natus est sunt incidunt.",
+        "cost" : 9.939845743299899E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "pexels-photo-190819.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "95e979be-481d-4150-a6f9-e65bb5586b42-2",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:32.263+0000",
+          "publishedDate" : "2018-08-21T03:59:20.568+0000",
+          "expiryDate" : "2018-08-21T03:59:20.568+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.568+0000"
+        }
+      }, {
+        "id" : "6d4f8b75-ad48-4866-aa9b-08a5e98a1c76",
+        "title" : "Maison A louer a Port Diannaland",
+        "displayTitle" : "Maison A louer a Po...",
+        "description" : "Maison A louer a Port Diannaland\nTempora dolorum reiciendis doloribus quibusdam dolorem sed aut. Dolor officiis aspernatur rerum vel vero aliquam. Consequatur et quasi adipisci saepe modi quam. Nihil qui repellendus eum optio et eveniet nam. Error odit tenetur distinctio nulla et culpa. Aperiam minima quos. Corrupti in optio. In cum quidem modi explicabo. Ut explicabo facilis omnis fugiat aliquam. Unde magni similique quia occaecati tenetur minima dolores. Sed facilis harum nulla tenetur quo culpa ut. Ipsa explicabo corporis corporis ullam accusamus ducimus. Quod dolore aut animi dolorem assumenda id. Aut at ipsam non cumque qui. Repellat dolores ad temporibus et qui consequuntur. Fuga sint explicabo corrupti ullam. Rerum aut consequuntur in.",
+        "cost" : 3.9038164688922495E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : true,
+        "media" : {
+          "originalFileName" : "pexels-photo-204611.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "6d4f8b75-ad48-4866-aa9b-08a5e98a1c76-7",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:38.843+0000",
+          "publishedDate" : "2018-08-21T03:59:20.568+0000",
+          "expiryDate" : "2018-08-21T03:59:20.568+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.568+0000"
+        }
+      }, {
+        "id" : "0a77f3f4-485b-4de8-960e-a6ccb0bc1ac6",
+        "title" : "Maison A louer a Weissnatmouth",
+        "displayTitle" : "Maison A louer a We...",
+        "description" : "Maison A louer a Weissnatmouth\nEst illum ratione repudiandae odio dolorem. Et consequatur nisi odio enim ea optio. Ipsa fugit accusantium eligendi. Laudantium aliquam nesciunt dolores tempora explicabo consequatur. Facilis aperiam natus et. Corrupti veniam dolorem accusamus. Illum nihil deleniti voluptas et tempora amet commodi. Unde dolorem dolores. Eos quibusdam quod asperiores beatae officiis. Dolores ut soluta. Qui a dolores placeat iste et minima enim. Veniam et nulla ad qui ea. Quia reiciendis in quo quo in hic. Quia laboriosam aut suscipit. Quas eaque ad illo reiciendis in. Aut est inventore debitis dolores voluptas.",
+        "cost" : 5.830461561670628E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : true,
+        "media" : {
+          "originalFileName" : "pexels-photo-106399.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "0a77f3f4-485b-4de8-960e-a6ccb0bc1ac6-4",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:43.811+0000",
+          "publishedDate" : "2018-08-21T03:59:20.569+0000",
+          "expiryDate" : "2018-08-21T03:59:20.569+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.569+0000"
+        }
+      }, {
+        "id" : "9c336387-6529-4837-808e-d682f2d42bed",
+        "title" : "Maison A Vendre a West Jarrellstad",
+        "displayTitle" : "Maison A Vendre a W...",
+        "description" : "Maison A Vendre a West Jarrellstad\nIpsum magni incidunt labore. Id omnis est. Animi laudantium velit expedita ducimus saepe animi. Nihil officia nihil et modi. Praesentium eaque laborum iusto exercitationem recusandae dolor voluptatem. Cupiditate minus quidem ut rerum. A fuga nobis cum voluptas asperiores. Recusandae est voluptatem. Itaque iste in occaecati distinctio qui cupiditate. Provident officiis esse velit. Id vel nam laboriosam. Praesentium alias in aut tempore. Est commodi odit aliquid blanditiis laudantium sint expedita. Nemo repudiandae sit iure deserunt sequi magni. Voluptate ea ratione enim atque. Doloribus aut est minima est tempora aut accusamus. Odio nam voluptates perspiciatis nam.",
+        "cost" : 6.86704365426958E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : true,
+        "media" : {
+          "originalFileName" : "pexels-photo-597331.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "9c336387-6529-4837-808e-d682f2d42bed-2",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:58:03.013+0000",
+          "publishedDate" : "2018-08-21T03:59:20.569+0000",
+          "expiryDate" : "2018-08-21T03:59:20.569+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.569+0000"
+        }
+      }, {
+        "id" : "b69e3b03-1c0a-4f15-883d-5032bc24e653",
+        "title" : "Maison A louer a Paucekville",
+        "displayTitle" : "Maison A louer a Pa...",
+        "description" : "Maison A louer a Paucekville\nAliquam fugiat ab dolores et. Enim eum sint sunt quo. Ipsa aut quibusdam reiciendis. Officia accusantium fugit amet necessitatibus. Omnis non dolorem. Error praesentium esse aliquid. Omnis sunt quaerat aspernatur eum magnam quam occaecati. Nisi cum doloribus voluptatem suscipit sint. Perspiciatis tempore et aut fugit consequatur dolor nihil. Voluptas et ut. Earum minima aliquam sit culpa delectus ipsam. Ea minima unde distinctio repellendus suscipit sit. Dolorem cum officia aliquam aut vel sed. Quo fugit in. Modi non voluptatem velit aperiam quas quas provident. Et minima qui incidunt dolorum quisquam consequuntur quisquam. Consectetur voluptate qui quam est et.",
+        "cost" : 7.523659314091185E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : true,
+        "media" : {
+          "originalFileName" : "pexels-photo-106399.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "b69e3b03-1c0a-4f15-883d-5032bc24e653-8",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:58:14.159+0000",
+          "publishedDate" : "2018-08-21T03:59:20.570+0000",
+          "expiryDate" : "2018-08-21T03:59:20.570+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.570+0000"
+        }
+      } ]
+    }, {
+      "categoryId" : "AUTOMOTIVE",
+      "categoryName" : "Automotive",
+      "total" : 12,
+      "ads" : [ {
+        "id" : "62214e0a-986e-454b-a100-fc4d54ccde74",
+        "title" : "Maison A louer a Drewchester",
+        "displayTitle" : "Maison A louer a Dr...",
+        "description" : "Maison A louer a Drewchester\nVoluptas pariatur quasi impedit. Qui facilis quam. Optio enim et aut. Sed voluptas distinctio. Facere qui illo aut dolore. Possimus cumque sint quis eveniet. Aperiam culpa explicabo accusamus tenetur id. Quo asperiores qui hic omnis maiores debitis quia. Nisi vero quis aut qui. Qui et autem et quibusdam voluptatem. Et ut aut id qui. Aspernatur laudantium aut facere tenetur voluptas mollitia quisquam. Consectetur voluptatem voluptatem. Est accusantium dolorem voluptas nihil eveniet. Optio non impedit id. Possimus sed tenetur dolorem eligendi velit est rerum. Iste quidem mollitia aliquid iste est in sed.",
+        "cost" : 5.799919239746849E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "mobile-phone-smartphone-tablet-white-40739.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "62214e0a-986e-454b-a100-fc4d54ccde74-12",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:03.526+0000",
+          "publishedDate" : "2018-08-21T03:59:20.606+0000",
+          "expiryDate" : "2018-08-21T03:59:20.606+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.606+0000"
+        }
+      }, {
+        "id" : "ea7cf836-e815-4a83-89dc-f4f629d9a45e",
+        "title" : "Maison A Vendre a Marinatown",
+        "displayTitle" : "Maison A Vendre a M...",
+        "description" : "Maison A Vendre a Marinatown\nQuos doloribus consequatur et quisquam veritatis. Rerum delectus exercitationem et. Mollitia cupiditate totam eius iste similique. Dignissimos dolorem et assumenda dolore. Non et perferendis ea. Porro et expedita rerum non quia dolor a. Rerum et accusantium repudiandae est. Voluptatem provident amet et cumque praesentium soluta. Laudantium consequatur consequatur aut quia esse. Est harum quisquam qui. Ab cupiditate provident quis. Reiciendis qui tempora repudiandae consequuntur consequuntur qui ut. Molestias ipsa id quis sit ipsam. Temporibus iusto possimus assumenda ratione repellat. Sed voluptatem hic aut fugit vitae deleniti quaerat. Possimus quas ipsum dolores quasi et id. Iste doloribus delectus officia ea.",
+        "cost" : 9.034508994719169E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : true,
+        "media" : {
+          "originalFileName" : "pexels-photo-1152077.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "ea7cf836-e815-4a83-89dc-f4f629d9a45e-1",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:00.468+0000",
+          "publishedDate" : "2018-08-21T03:59:20.607+0000",
+          "expiryDate" : "2018-08-21T03:59:20.607+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.607+0000"
+        }
+      }, {
+        "id" : "2d69054b-6ade-40e2-acd4-bdb419ca59b6",
+        "title" : "Maison A Vendre a Kileyburgh",
+        "displayTitle" : "Maison A Vendre a K...",
+        "description" : "Maison A Vendre a Kileyburgh\nAut eligendi consequuntur recusandae id praesentium. Dignissimos fugit fugit sunt. Quo autem beatae voluptate minima. Quia maiores consequuntur. Expedita et eius qui est. Odio sed occaecati est a sit. Minus et doloribus non. Modi suscipit fugit nam. Perferendis vel dolorem. Accusamus non dignissimos. Et dolores ut eligendi. Ut doloribus voluptate quisquam quia aut ut et. Eveniet eos facere alias eum. Aut culpa explicabo occaecati voluptatibus quos eveniet eaque. Quis iusto aliquid doloribus perferendis corrupti tempore est.",
+        "cost" : 4.19618947016075E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : true,
+        "media" : {
+          "originalFileName" : "pexels-photo-595809.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "2d69054b-6ade-40e2-acd4-bdb419ca59b6-6",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:05.069+0000",
+          "publishedDate" : "2018-08-21T03:59:20.608+0000",
+          "expiryDate" : "2018-08-21T03:59:20.608+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.608+0000"
+        }
+      }, {
+        "id" : "ae0467dc-db2f-4177-97b6-41d0c19ec2ec",
+        "title" : "Maison A Vendre a Port Nettiehaven",
+        "displayTitle" : "Maison A Vendre a P...",
+        "description" : "Maison A Vendre a Port Nettiehaven\nPraesentium consequatur nostrum fugiat labore officiis ut voluptas. Minima sunt illo voluptates ad. Suscipit officia non ut veniam cum laboriosam. Iure qui praesentium accusamus enim enim. Ipsam odit consequatur debitis odio. Id harum repellat rem. Numquam ullam nemo temporibus deleniti atque. Commodi dolorem omnis adipisci necessitatibus. Voluptatum at aliquam cumque cum quia praesentium sunt. Sed eligendi dolor repudiandae aliquid. Tempora totam qui adipisci aperiam sed. Dignissimos placeat expedita atque sint laboriosam. Est fugit dolore et deleniti et. Aspernatur est velit expedita et. Natus magni deleniti incidunt velit.",
+        "cost" : 4.770138368225062E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "pexels-photo-595809.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "ae0467dc-db2f-4177-97b6-41d0c19ec2ec-9",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:10.618+0000",
+          "publishedDate" : "2018-08-21T03:59:20.608+0000",
+          "expiryDate" : "2018-08-21T03:59:20.608+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.608+0000"
+        }
+      }, {
+        "id" : "3f185116-f694-437d-afa7-d1324d732242",
+        "title" : "Maison A louer a New Berry",
+        "displayTitle" : "Maison A louer a Ne...",
+        "description" : "Maison A louer a New Berry\nQuia deleniti accusantium sit ut voluptatibus aut. Et ipsam eligendi laboriosam temporibus ut at. Mollitia unde rerum doloribus velit distinctio distinctio. Illo quisquam eum quos perferendis vel. Iusto adipisci fugit. Animi ipsum occaecati omnis dolor. Autem in ipsa magni dignissimos porro vel quisquam. Id quisquam voluptas hic similique quia ipsum itaque. Facere unde culpa repellendus dolorem aut odit. Impedit ducimus porro adipisci nobis. Repellendus quidem enim. Quasi quo odit iusto deleniti pariatur ipsum. Voluptates id rerum a aut aut omnis atque. Atque ullam voluptatem quia dicta ad. Libero autem doloribus numquam et suscipit provident.",
+        "cost" : 1.9623664746067397E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : true,
+        "media" : {
+          "originalFileName" : "pexels-photo-256396.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "3f185116-f694-437d-afa7-d1324d732242-3",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:23.125+0000",
+          "publishedDate" : "2018-08-21T03:59:20.609+0000",
+          "expiryDate" : "2018-08-21T03:59:20.609+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.609+0000"
+        }
+      }, {
+        "id" : "8713725c-69be-4296-bfbb-ddda65cee4a8",
+        "title" : "Maison A Vendre a Gislasonshire",
+        "displayTitle" : "Maison A Vendre a G...",
+        "description" : "Maison A Vendre a Gislasonshire\nQuia reprehenderit eos ut autem molestiae eum qui. Error pariatur suscipit velit qui est rerum. Officia quia odit aliquid qui tempore rem libero. Blanditiis et voluptatum qui. Vitae qui quam aspernatur. Qui voluptate ipsa sunt quos eos aperiam excepturi. Tenetur et iusto fugit autem dignissimos voluptas exercitationem. Velit ut suscipit quasi aspernatur enim facilis. Voluptatum dolores expedita accusantium sit totam velit ipsum. Qui et earum veniam. Est est qui numquam et quos. Repudiandae in quasi. Repudiandae eos libero unde saepe. Quod est nemo tempora non. Eum autem temporibus ullam expedita. Beatae repudiandae ducimus. Fugit minus corporis iure.",
+        "cost" : 2.947176161559889E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "pexels-photo-323780.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "8713725c-69be-4296-bfbb-ddda65cee4a8-8",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:25.902+0000",
+          "publishedDate" : "2018-08-21T03:59:20.609+0000",
+          "expiryDate" : "2018-08-21T03:59:20.609+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.609+0000"
+        }
+      }, {
+        "id" : "a503cc76-b800-4384-84eb-8815f2522f09",
+        "title" : "Maison A Vendre a North Monica",
+        "displayTitle" : "Maison A Vendre a N...",
+        "description" : "Maison A Vendre a North Monica\nVoluptatem fuga consequatur nesciunt inventore. Quo doloremque necessitatibus omnis. Eos ut soluta non mollitia magni. Iste voluptate officiis ipsam eos labore velit. Aliquam tempora magnam sequi odio voluptatem et. Perspiciatis sequi inventore laudantium corporis. Exercitationem qui a. Assumenda ducimus est facilis sint architecto. Animi reiciendis beatae. Aut sunt pariatur et est quia. Est ut et ducimus reiciendis eum quo animi. Nulla dignissimos asperiores nihil assumenda dicta provident. Cupiditate voluptatem qui dolorem earum nihil ut. Et perspiciatis praesentium excepturi suscipit harum. Aut quo inventore suscipit dignissimos. Sequi ipsa a atque eum deserunt quibusdam in.",
+        "cost" : 1.9070788175976306E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "pexels-photo-934673.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "a503cc76-b800-4384-84eb-8815f2522f09-6",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:25.172+0000",
+          "publishedDate" : "2018-08-21T03:59:20.610+0000",
+          "expiryDate" : "2018-08-21T03:59:20.610+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.610+0000"
+        }
+      }, {
+        "id" : "817b89a0-3dea-4bf2-a6be-0a06875639d0",
+        "title" : "Maison A Vendre a Zulaufberg",
+        "displayTitle" : "Maison A Vendre a Z...",
+        "description" : "Maison A Vendre a Zulaufberg\nQuis architecto culpa rerum enim et a nihil. Deleniti exercitationem eius dignissimos architecto. Placeat accusamus est. Labore eos et dolore mollitia et earum. Non rem quisquam qui. Quibusdam reprehenderit praesentium. Provident ut et. Exercitationem quasi voluptatem totam non sapiente voluptatum. Ipsa aliquam necessitatibus. Explicabo suscipit incidunt. Aut beatae deleniti aliquid. Deleniti sunt et. Sit natus sed et accusamus suscipit. Qui exercitationem explicabo fugit vel. Nihil modi ea saepe quasi corporis. Ut reiciendis vitae nihil reiciendis odit aperiam quibusdam.",
+        "cost" : 7.821569316850743E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "pexels-photo-190819.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "817b89a0-3dea-4bf2-a6be-0a06875639d0-5",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:38.087+0000",
+          "publishedDate" : "2018-08-21T03:59:20.610+0000",
+          "expiryDate" : "2018-08-21T03:59:20.610+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.610+0000"
+        }
+      }, {
+        "id" : "e6960ef1-07fa-4288-b1e7-a9e6ac7281e4",
+        "title" : "Maison A louer a Port Monroe",
+        "displayTitle" : "Maison A louer a Po...",
+        "description" : "Maison A louer a Port Monroe\nExpedita amet ea et vel enim maiores. Corporis omnis nisi voluptatem facere ut ipsum. Voluptas sed reprehenderit delectus labore voluptatum. Excepturi quam commodi. Blanditiis dolorum assumenda est. Et asperiores quibusdam et nisi non impedit dolorem. Necessitatibus sed quas aspernatur velit qui voluptatem quas. Cumque ut exercitationem iusto. Laudantium quo recusandae omnis occaecati. Cum minus excepturi odit autem iste. Quibusdam expedita modi natus quidem et atque dignissimos. Provident reprehenderit nesciunt facere ad quam maiores nisi. Qui quam quo iure voluptatem qui quia. Beatae optio aliquam expedita dignissimos ut. Dolor laudantium minima qui aut consectetur qui. Inventore quis enim. Sed voluptas sunt sed.",
+        "cost" : 6.70013572217547E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "pexels-photo-297933.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "e6960ef1-07fa-4288-b1e7-a9e6ac7281e4-9",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:48.515+0000",
+          "publishedDate" : "2018-08-21T03:59:20.610+0000",
+          "expiryDate" : "2018-08-21T03:59:20.610+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.610+0000"
+        }
+      }, {
+        "id" : "96b797df-54e8-40f9-9100-0146bcb8d175",
+        "title" : "Maison A Vendre a New Magdalenaburgh",
+        "displayTitle" : "Maison A Vendre a N...",
+        "description" : "Maison A Vendre a New Magdalenaburgh\nEarum quam libero laboriosam omnis porro. Velit sequi et odio quasi vel aliquid assumenda. Nostrum nemo quidem voluptates quia beatae officiis. Ipsum possimus et nulla id tempora. Fuga iusto impedit. Totam dolorem cumque molestias. Cum consequatur et alias velit et. Error et occaecati laboriosam est beatae possimus laudantium. Voluptatem et corporis eius. Laboriosam quia ad illo quia delectus et pariatur. Corrupti perspiciatis velit consectetur minus. Saepe laudantium qui maiores rem fugit. Ut sit at. At rem tempore eum itaque minus deserunt. Id similique nihil et ut. Dolor deserunt similique ea ipsum voluptatem tenetur.",
+        "cost" : 6.894498080351259E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "pexels-photo-170811.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "96b797df-54e8-40f9-9100-0146bcb8d175-3",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:47.838+0000",
+          "publishedDate" : "2018-08-21T03:59:20.611+0000",
+          "expiryDate" : "2018-08-21T03:59:20.611+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.611+0000"
+        }
+      }, {
+        "id" : "dfdfc23e-f71c-4194-93de-e417dfdea1f2",
+        "title" : "Maison A louer a Vandervortshire",
+        "displayTitle" : "Maison A louer a Va...",
+        "description" : "Maison A louer a Vandervortshire\nExercitationem fugit sit. Aperiam alias est sunt voluptas. Sit cupiditate assumenda fuga rerum in dolores aut. Pariatur qui asperiores officia ut cum. Ullam et est quam. Blanditiis perferendis velit fugit cumque quis dolor. In minus voluptate excepturi laborum. Et debitis voluptatem nesciunt. Eaque aut laboriosam voluptatem. Adipisci ex sit quibusdam quia libero. Suscipit et asperiores eum sunt omnis est. Accusantium facilis ut cupiditate. Totam nisi commodi qui repellendus eius. Nobis corporis qui ad assumenda accusamus adipisci. Maxime ea voluptatum repellendus reprehenderit at ipsa repellendus. Necessitatibus dolorem est voluptas natus aliquam dolores. Est et sit harum reprehenderit qui sit vel.",
+        "cost" : 5.372157129378701E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "pexels-photo-323780.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "dfdfc23e-f71c-4194-93de-e417dfdea1f2-4",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:52.855+0000",
+          "publishedDate" : "2018-08-21T03:59:20.611+0000",
+          "expiryDate" : "2018-08-21T03:59:20.611+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.611+0000"
+        }
+      }, {
+        "id" : "145d8940-6d50-4603-8bbb-6a5e82c1ea88",
+        "title" : "Maison A Vendre a Schneiderton",
+        "displayTitle" : "Maison A Vendre a S...",
+        "description" : "Maison A Vendre a Schneiderton\nConsectetur repellat voluptatem. Et ad sit iure et facilis dolores quo. Quo qui labore eaque. Eum aut eos molestiae aspernatur. Fugit natus et unde rem rerum mollitia error. Vel ullam doloremque fuga eum doloremque. Saepe ad quaerat aut. Est ut autem occaecati consequuntur. Assumenda omnis nisi saepe id fuga beatae doloremque. Eveniet libero vitae odio quaerat. Accusamus enim voluptatibus quae molestiae dolor laboriosam explicabo. Qui neque tenetur fugit quas. Qui eos ratione totam voluptatem ut. Dolorem inventore eos fugit reiciendis. Eveniet voluptatem nihil.",
+        "cost" : 9.530231218700267E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "pexels-photo-297933.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "145d8940-6d50-4603-8bbb-6a5e82c1ea88-1",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:59.636+0000",
+          "publishedDate" : "2018-08-21T03:59:20.612+0000",
+          "expiryDate" : "2018-08-21T03:59:20.612+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.612+0000"
+        }
+      } ]
+    } ]
 }
