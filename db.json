@@ -1,3 +1,48 @@
 {
-  "categories":  []
+  "categories":  [
+    {
+      "categoryId" : "BOOKS",
+      "categoryName" : "Books & Audible",
+      "total" : 9,
+      "ads" : [ {
+        "id" : "08dd4dbb-65fe-473a-a5fc-ff950dfebc27",
+        "title" : "Maison A Vendre a Marquardthaven",
+        "displayTitle" : "Maison A Vendre a M...",
+        "description" : "Maison A Vendre a Marquardthaven\nPerspiciatis suscipit ea aut. Perferendis provident est corporis odio. Voluptatem dolorem cupiditate consequatur suscipit illum nobis. In voluptatem et. Eligendi omnis magnam eum. Officia mollitia voluptas nam qui. Iure rerum dignissimos in voluptatem ea voluptatem. Quidem nemo ex quos. Temporibus magnam totam id aliquid. Qui odit velit qui harum ut quia dicta. Sit quisquam provident. Ipsum adipisci incidunt dolor molestiae rerum. Iure quod fugit. Iure voluptatem eligendi. Velit cupiditate aut cumque aspernatur. Sed omnis aut libero. Praesentium deleniti nemo.",
+        "cost" : 5190551.462049501,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : false,
+        "media" : {
+          "originalFileName" : "pexels-photo-214488.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "08dd4dbb-65fe-473a-a5fc-ff950dfebc27-4",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:01.090+0000",
+          "publishedDate" : "2018-08-21T03:59:20.164+0000",
+          "expiryDate" : "2018-08-21T03:59:20.164+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.164+0000"
+        }
+      }, {
+        "id" : "1ad43aa7-b533-4a3b-83c2-63d8d01e11b9",
+        "title" : "Maison A louer a Weberstad",
+        "displayTitle" : "Maison A louer a We...",
+        "description" : "Maison A louer a Weberstad\nIn quaerat ut quia iste corrupti saepe ea. Est itaque excepturi. Beatae reprehenderit autem aliquid. Et sed molestiae ea distinctio. Quia doloremque eum dolores tenetur ut est quia. Facere quod omnis nihil. Iusto id eius molestias a odio tempore. Quos est vel cumque ipsam. Maxime odio alias officiis voluptates. Architecto quaerat enim aperiam ducimus. Est at non ullam vitae. Commodi voluptates quia voluptatem error quo. Non magnam pariatur ipsa. Minima laboriosam id deserunt ut. Est repellendus aspernatur dolores consectetur. Id eum nemo. Eaque ut quia voluptates.",
+        "cost" : 3.741919314667432E7,
+        "currency" : "CFA",
+        "ownerId" : "Admin1234",
+        "featured" : true,
+        "media" : {
+          "originalFileName" : "pexels-photo-253096.jpeg",
+          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
+          "s3FileName" : "1ad43aa7-b533-4a3b-83c2-63d8d01e11b9-5",
+          "enabled" : true,
+          "creationDate" : "2018-08-21T03:57:13.551+0000",
+          "publishedDate" : "2018-08-21T03:59:20.165+0000",
+          "expiryDate" : "2018-08-21T03:59:20.165+0000",
+          "lastModifiedDate" : "2018-08-21T03:59:20.165+0000"
+        }
+      }]
+    }
+  ]
 }
