@@ -133,26 +133,7 @@
           "expiryDate" : "2018-08-21T03:59:20.327+0000",
           "lastModifiedDate" : "2018-08-21T03:59:20.327+0000"
         }
-      }, {
-        "id" : "7a410afb-a388-4924-ad99-198bffdadb72",
-        "title" : "Maison A louer a Kraigbury",
-        "displayTitle" : "Maison A louer a Kr...",
-        "description" : "Maison A louer a Kraigbury\nSapiente maxime ex placeat blanditiis. Ea eveniet ut magni. Quia ea qui necessitatibus aliquid expedita consequuntur. Corporis sed animi illum. Veniam optio quia itaque quia nesciunt. Repellat laboriosam voluptatibus voluptatibus qui modi quo. Amet ut recusandae ea nesciunt quibusdam fugiat. Vel velit deleniti praesentium. Rem sed vel consectetur quam in. Ea inventore quae excepturi. Ducimus repellat ut facilis. Architecto qui deserunt itaque impedit quae. Modi aliquam molestias corporis. Molestiae in aut deleniti dignissimos. Fugit amet quam totam a id excepturi. Error rem numquam qui. Eum ipsum officia ratione est incidunt eum voluptatem.",
-        "cost" : 3.795871309152642E7,
-        "currency" : "CFA",
-        "ownerId" : "Admin1234",
-        "featured" : true,
-        "media" : {
-          "originalFileName" : "pexels-photo-204611.jpeg",
-          "s3BucketFileLocation" : "http://adds-sharing-service-adds.s3-website-us-west-2.amazonaws.com",
-          "s3FileName" : "7a410afb-a388-4924-ad99-198bffdadb72-10",
-          "enabled" : true,
-          "creationDate" : "2018-08-21T03:58:01.300+0000",
-          "publishedDate" : "2018-08-21T03:59:20.327+0000",
-          "expiryDate" : "2018-08-21T03:59:20.327+0000",
-          "lastModifiedDate" : "2018-08-21T03:59:20.327+0000"
-        }
-      }, {
+      }{
         "id" : "92aa06c8-6495-444c-99bc-fa05838b5bf3",
         "title" : "Maison A Vendre a Port Bill",
         "displayTitle" : "Maison A Vendre a P...",
